@@ -1,30 +1,30 @@
 # SUMMARY
 
-## Apps - MCDA (Multicriteria Decision Aids)
+## Apps - MCDA (Multicriteria Decision Aids) - [Java]
 
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
 
-## Apps - Operations Research
+## Apps - Operations Research  - [Java]
 * [J-Horizon]( https://github.com/Valdecy/J-Horizon) : A Vehicle Routing Problem Software. CVRP (Capacitated VRP), MDVRP (Multiple Depot VRP), VRPTW (VRP with Time Windows), VRPB (VRP with Backhauls), VRPPD (VRP with Pickups and Deliveries), VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
 
-## Data Science - Association Rules
+## Data Science - Association Rules  - [Python]
 
 * [Apriori Algorithm]( https://github.com/Valdecy/Association-Rules-Apriori) : Apriori Algorithm - An Association Rule Learning Over Transactions Databases
 
-## Data Science - Classification Algorithms
+## Data Science - Classification Algorithms - [Python]
 
 * [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Naive Bayes Classifier for Supervised Learning Problems
 
-## Data Science - Decision Trees
+## Data Science - Decision Trees - [Python]
 
 * [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : ID3 Algorithm - A Decision Tree for Categorical Data with Pruning Methods
 * [C4.5]( https://github.com/Valdecy/C4.5) : C4.5 Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : CART Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [Random Forest]( https://github.com/Valdecy/Random-Forest) : Random Forest Algorithm - A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
 
-## Data Science - Recommender Systems
+## Data Science - Recommender Systems - [Python]
 
 * [CBF (Content Based Filtering)]( https://github.com/Valdecy/Recommender-Systems-Content_Based_Filtering) : Content-Based Filtering using TF-IDF Matrices with Cosine Similarity
 * [CF Item (Collaborative Filtering - Item Based)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Regression_Item_Based) : Collaborative Filtering Function using an Item Based Regression Approach
@@ -34,16 +34,16 @@
 * [CF Nearest Neighbors (Collaborative Filtering - Nearest Neighbors)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Nearest_Neighbors) : Collaborative Filtering Function using a Nearest Neighbors Approach
 * [CF SVD (Collaborative Filtering - SVD)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-SVD) : Collaborative Filtering Function using a SVD (Singular Value Decomposition) Approach
 
-## Data Science - NLP (Natural Language Processing)
+## Data Science - NLP (Natural Language Processing) - [Python]
 
 * [LDA (Latent Dirichlet Allocation)]( https://github.com/Valdecy/Latent-Dirichlet-Allocation) : Latent Dirichlet Allocation (LDA) function. Also computes the dtm, binary dtm, tf dtm and tf-idf dtm
 
-## Data Science - Neural Networks
+## Data Science - Neural Networks - [Python]
 
 * [CNN (Convolutional Neural Network)]( https://github.com/Valdecy/SLR) : SLR
 * [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Neural Network Function for Binary or Linear Output
 
-## Forecasting
+## Forecasting - [Python]
 
 * [Forecasting Lessons]( https://github.com/Valdecy/Forecasting) :
     - Lesson 01 - Introduction to Forecasting
@@ -57,7 +57,7 @@
 * [Holt Method]( https://github.com/Valdecy/Forecasting-03-Holt) : Calculates the Additive or Multiplicative Holt's Method for Time Series with Trend
 * [Holt-Winters Method]( https://github.com/Valdecy/Forecasting-04-Holt_Winters) : Calculates the Additive or Multiplicative Holt-Winters' Method for Time Series with Trend and Seasonality
 
-## Metaheuristics - Classical
+## Metaheuristics - Classical - [Python]
 
 * [ARS (Adaptive Random Search)]( https://github.com/Valdecy/Metaheuristic-Adaptive_Random_Search) : Adaptive Random Search to Minimize Functions with Continuous Variables
 * [CEM (Cross Entropy Method)]( https://github.com/Valdecy/Metaheuristic-Cross_Entropy_Method) : Cross Entropy Method (or Kullback–Leibler divergence) to Minimize Functions with Continuous Variables
@@ -67,7 +67,7 @@
 * [RS (Random Search)]( https://github.com/Valdecy/Metaheuristic-Random_Search) : Random Search to Minimize Functions with Continuous Variables
 * [SA (Simulated Annealing)]( https://github.com/Valdecy/Metaheuristic-Simulated_Annealing) : Simulated Annealing to Minimize Functions with Continuous Variables
 
-## Metaheuristics - Discrete
+## Metaheuristics - Discrete - [Python]
 
 * [2-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-2-opt) : 2-opt Function for TSP problems
 * [2-opt Stochastic]( https://github.com/Valdecy/Metaheuristic-Local_Search-2-opt_Stochastic) : 2-opt Stochastic Function for TSP problems
@@ -81,12 +81,12 @@
 * [TS (Tabu Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Tabu_Search) : Tabu Search Function for TSP problems
 * [VNS (Variable Neighborhood Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Variable_Neighborhood_Search) : Variable Neighborhood Search Function for TSP problems
 
-## Metaheuristics - Multiobjective
+## Metaheuristics - Multiobjective - [Python]
 
 * [NSGA II (Non-Dominated Sorting Genetic Algorithm II) ]( https://github.com/Valdecy/Metaheuristic-NSGA_II) : NSGA II (Non-Dominated Sorting Genetic Algorithm II) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
 * [SPEA 2 Strength Pareto Evolutionary Algorithm 2](  https://github.com/Valdecy/Metaheuristic-SPEA_2) : SPEA 2 (Strength Pareto Evolutionary Algorithm 2) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
 
-## Metaheuristics - Nature Inspired
+## Metaheuristics - Nature Inspired - [Python]
 
 * [ACO (Ant Colony Optimization)]( https://github.com/Valdecy/Metaheuristic-Ant_Colony_Optimization) : Ant Colony Optimization Function for TSP problems
 * [ABC (Artificial Bee Colony)]( https://github.com/Valdecy/Metaheuristic-Artificial_Bee_Colony_Optimization) : Artificial Bee Colony Optimization to Minimize Functions with Continuous Variables
@@ -104,11 +104,9 @@
 * [SSA (Salp Swarm Algorithm)]( https://github.com/Valdecy/Metaheuristic-Salp_Swarm_Algorithm) : Salp Swarm Algorithm to Minimize Functions with Continuous Variables
 * [WOA (Whale Optimization Algorithm)]( https://github.com/Valdecy/Metaheuristic-Whale_Optimization_Algorithm) : Whale Optimization Algorithm to Minimize Functions with Continuous Variables
 
-## MVDA (Multivariate Data Analysis)
+## MVDA (Multivariate Data Analysis) - [R & SPSS]
 
-* [MVDA Lessons (R)]( https://github.com/Valdecy/MVDA) :
-    - Lesson 01 - Holt
-    - Lesson 02 - Holt
+* [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
     - Lesson 03 - Exploratory Factor Analysis
     - Lesson 04 - Multidimensional Scaling
     - Lesson 05 - Correspondence Analysis
@@ -132,5 +130,5 @@
     - Lesson 10 - Confirmatory Factor Analysis
     - Lesson 11 - Canonical Correlation
 
-## Others
+## Others - [Python]
 * [LUDPP (LU Decomposition with Partial Pivoting)]( https://github.com/Valdecy/LU_Decompostion) : Lower–Upper Decomposition with Partial Pivoting

@@ -19,7 +19,7 @@
 
 ## Data Science - Decision Trees
 
-* [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) :
+* [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : ID3 Algorithm - A Decision Tree for Categorical Data with Pruning Methods
 * [C4.5]( https://github.com/Valdecy/C4.5) : C4.5 Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : CART Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [Random Forest]( https://github.com/Valdecy/Random-Forest) : Random Forest Algorithm - A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values

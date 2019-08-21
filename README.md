@@ -41,7 +41,7 @@
 ## Data Science - Neural Networks - [Python]
 
 * [CNN (Convolutional Neural Network)]( https://github.com/Valdecy/SLR) : SLR
-* [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Neural Network Function for Binary or Linear Output
+* [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Pure Python Neural Network Function for Binary or Linear Problems
 
 ## Forecasting - [Python]
 

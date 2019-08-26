@@ -74,7 +74,7 @@
 * [3-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-3-opt) : 3-opt Function for TSP problems
 * [4-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-4-opt) : 4-opt Function for TSP problems
 * [EO (Extremal Optimization)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Extremal_Optimization) : Extremal Optimization Function for TSP problems
-* [GRASP (Greedy Randomized Adaptive Search Procedure)]( https://github.com/Valdecy/Metaheuristic-Local_Search-GRASP) : GRASP (Greedy Randomized Adaptive Search Procedure) Function for TSP problems.
+* [GRASP (Greedy Randomized Adaptive Search Procedure)]( https://github.com/Valdecy/Metaheuristic-Local_Search-GRASP) : Greedy Randomized Adaptive Search Procedure Function for TSP problems.
 * [GS (Guided Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Guided_Search) : Guided Search Function for TSP problems
 * [IS (Iterated Search)](https://github.com/Valdecy/Metaheuristic-Local_Search-Iterated_Search): Iterated Search Function for TSP problems
 * [SS (Scatter Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Scatter_Search) : Scatter Search Function for TSP problems

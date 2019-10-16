@@ -1,6 +1,6 @@
 # SUMMARY
 
-01) [Apps - MCDA (Multicriteria Decision Aids) - [Java]](#apps---mcda-(multicriteria-decision-aids)---[java])
+01) [Apps - MCDA (Multicriteria Decision Aids) - Java](#apps---mcda-(multicriteria-decision-aids)---java)
 02) [Apps - Operations Research  - [Java]](#apps---operations-research---[java])
 03) [Data Science - Association Rules - [Python]](#data-science---association-rules---[python])
 04) [Data Science - Classification Algorithms - [Python]](#data-science---classification-algorithms---[Python])
@@ -14,10 +14,10 @@
 12) [Metaheuristics - Multiobjective - [Python]](#metaheuristics---multiobjective---[python])
 13) [Metaheuristics - Nature Inspired - [Python]](#metaheuristics---nature-inspired---[python])
 14) [MVDA (Multivariate Data Analysis) - [R , SPSS]](#mvda-(multivariate-data-analysis)---[r-,-spss])
-15) [Others - [Python]](#others---[python])
+15) [Others - Python](#others---python)
 
 
-## Apps - MCDA (Multicriteria Decision Aids) - [Java]
+## Apps - MCDA (Multicriteria Decision Aids) - Java
 
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
@@ -147,5 +147,5 @@
     - Lesson 10 - Confirmatory Factor Analysis
     - Lesson 11 - Canonical Correlation
 
-## Others - [Python]
+## Others - Python
 * [LUDPP (LU Decomposition with Partial Pivoting)]( https://github.com/Valdecy/LU_Decompostion) : Lower–Upper Decomposition with Partial Pivoting

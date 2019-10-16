@@ -1,23 +1,23 @@
 # SUMMARY
 
-01) [Apps - MCDA (Multicriteria Decision Aids) - Java](#apps---mcda-(multicriteria-decision-aids)---java)
+01) [Apps - Multicriteria Decision Aids - Java](#apps---multicriteria-decision-aids---java)
 02) [Apps - Operations Research  - Java](#apps---operations-research---java)
 03) [Data Science - Association Rules - Python](#data-science---association-rules---python)
 04) [Data Science - Classification Algorithms - Python](#data-science---classification-algorithms---python)
 05) [Data Science - Decision Trees - Python](#data-science---decision-trees---python)
 06) [Data Science - Recommender Systems - Python](#data-science---recommender-systems---python)
-07) [Data Science - NLP (Natural Language Processing) - Python](#data-science---nlp-(natural-language-processing)---python)
+07) [Data Science - Natural Language Processing - Python](#data-science---natural-language-processing---python)
 08) [Data Science - Neural Networks - Python](#data-science---neural-networks---python)
 09) [Forecasting - Python](#forecasting---python)
 10) [Metaheuristics - Classical - Python](#metaheuristics---classical---python)
 11) [Metaheuristics - Discrete - Python](#metaheuristics---discrete---python)
 12) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective---python)
 13) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired---python)
-14) [MVDA (Multivariate Data Analysis) - R , SPSS](#mvda-(multivariate-data-analysis)---r-,-spss)
+14) [ultivariate Data Analysis - R , SPSS](#multivariate-data-analysis---r-,-spss)
 15) [Others - Python](#others---python)
 
 
-## Apps - MCDA (Multicriteria Decision Aids) - Java
+## Apps - Multicriteria Decision Aids - Java
 
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
@@ -51,7 +51,7 @@
 * [CF Nearest Neighbors (Collaborative Filtering - Nearest Neighbors)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Nearest_Neighbors) : Collaborative Filtering Function using a Nearest Neighbors Approach
 * [CF SVD (Collaborative Filtering - SVD)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-SVD) : Collaborative Filtering Function using a SVD (Singular Value Decomposition) Approach
 
-## Data Science - NLP (Natural Language Processing) - Python
+## Data Science - Natural Language Processing - Python
 
 * [LDA (Latent Dirichlet Allocation)]( https://github.com/Valdecy/Latent-Dirichlet-Allocation) : Latent Dirichlet Allocation (LDA) function. Also computes the dtm, binary dtm, tf dtm and tf-idf dtm
 
@@ -98,7 +98,7 @@
 * [TS (Tabu Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Tabu_Search) : Tabu Search Function for TSP problems
 * [VNS (Variable Neighborhood Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Variable_Neighborhood_Search) : Variable Neighborhood Search Function for TSP problems
 
-## Metaheuristics - Multiobjective - [Python]
+## Metaheuristics - Multiobjective - Python
 
 * [NSGA II (Non-Dominated Sorting Genetic Algorithm II) ]( https://github.com/Valdecy/Metaheuristic-NSGA_II) : NSGA II (Non-Dominated Sorting Genetic Algorithm II) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
 * [SPEA 2 Strength Pareto Evolutionary Algorithm 2](  https://github.com/Valdecy/Metaheuristic-SPEA_2) : SPEA 2 (Strength Pareto Evolutionary Algorithm 2) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
@@ -121,7 +121,7 @@
 * [SSA (Salp Swarm Algorithm)]( https://github.com/Valdecy/Metaheuristic-Salp_Swarm_Algorithm) : Salp Swarm Algorithm to Minimize Functions with Continuous Variables
 * [WOA (Whale Optimization Algorithm)]( https://github.com/Valdecy/Metaheuristic-Whale_Optimization_Algorithm) : Whale Optimization Algorithm to Minimize Functions with Continuous Variables
 
-## MVDA (Multivariate Data Analysis) - R , SPSS
+## Multivariate Data Analysis - R , SPSS
 
 * [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
     - Lesson 03 - Exploratory Factor Analysis

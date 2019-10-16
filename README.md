@@ -13,7 +13,7 @@
 11) [Metaheuristics - Discrete - Python](#metaheuristics---discrete---python)
 12) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective---python)
 13) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired---python)
-14) [Multivariate Data Analysis - R , SPSS](#multivariate-data-analysis---r-,-spss)
+14) [Multivariate Data Analysis - R and SPSS](#multivariate-data-analysis---r-and-spss)
 15) [Others - Python](#others---python)
 
 
@@ -121,7 +121,7 @@
 * [SSA (Salp Swarm Algorithm)]( https://github.com/Valdecy/Metaheuristic-Salp_Swarm_Algorithm) : Salp Swarm Algorithm to Minimize Functions with Continuous Variables
 * [WOA (Whale Optimization Algorithm)]( https://github.com/Valdecy/Metaheuristic-Whale_Optimization_Algorithm) : Whale Optimization Algorithm to Minimize Functions with Continuous Variables
 
-## Multivariate Data Analysis - R , SPSS
+## Multivariate Data Analysis - R and SPSS
 
 * [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
     - Lesson 03 - Exploratory Factor Analysis

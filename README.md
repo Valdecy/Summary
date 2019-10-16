@@ -13,7 +13,7 @@
 11) [Metaheuristics - Discrete - Python](#metaheuristics---discrete---python)
 12) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective---python)
 13) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired---python)
-14) [ultivariate Data Analysis - R , SPSS](#multivariate-data-analysis---r-,-spss)
+14) [Multivariate Data Analysis - R , SPSS](#multivariate-data-analysis---r-,-spss)
 15) [Others - Python](#others---python)
 
 

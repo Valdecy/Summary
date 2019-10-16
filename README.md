@@ -22,11 +22,11 @@
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
 
-## Apps - Operations Research  - Java
+## Apps - Operations Research - Java
 * [J-Horizon]( https://github.com/Valdecy/J-Horizon) : A Vehicle Routing Problem Software. CVRP (Capacitated VRP), MDVRP (Multiple Depot VRP), VRPTW (VRP with Time Windows), VRPB (VRP with Backhauls), VRPPD (VRP with Pickups and Deliveries), VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
 
-## Data Science - Association Rules  - Python
+## Data Science - Association Rules - Python
 
 * [Apriori Algorithm]( https://github.com/Valdecy/Association-Rules-Apriori) : Apriori Algorithm - An Association Rule Learning Over Transactions Databases
 

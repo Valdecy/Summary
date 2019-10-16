@@ -1,5 +1,22 @@
 # SUMMARY
 
+01) [Apps - MCDA (Multicriteria Decision Aids) - [Java]](#apps---mcda-(multicriteria-decision-aids)---[java])
+02) [Apps - Operations Research  - [Java]](#apps---operations-research---[java])
+03) [Data Science - Association Rules - [Python]](#data-science---association-rules---[python])
+04) [Data Science - Classification Algorithms - [Python]](#data-science---classification-algorithms---[Python])
+05) [Data Science - Decision Trees - [Python]](#data-science---decision-trees---[python])
+06) [Data Science - Recommender Systems - [Python]](#data-science---recommender-systems---[python])
+07) [Data Science - NLP (Natural Language Processing) - [Python]](#data-science---nlp-(natural-language-processing)---[python])
+08) [Data Science - Neural Networks - [Python]](#data-science---neural-networks---[python])
+09) [Forecasting - [Python]](#forecasting---[python])
+10) [Metaheuristics - Classical - [Python]](#metaheuristics---classical---[python])
+11) [Metaheuristics - Discrete - [Python]](#metaheuristics---discrete---[python])
+12) [Metaheuristics - Multiobjective - [Python]](#metaheuristics---multiobjective---[python])
+13) [Metaheuristics - Nature Inspired - [Python]](#metaheuristics---nature-inspired---[python])
+14) [MVDA (Multivariate Data Analysis) - [R , SPSS]](#mvda-(multivariate-data-analysis)---[r-,-spss])
+15) [Others - [Python]](#others---[python])
+
+
 ## Apps - MCDA (Multicriteria Decision Aids) - [Java]
 
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
@@ -104,7 +121,7 @@
 * [SSA (Salp Swarm Algorithm)]( https://github.com/Valdecy/Metaheuristic-Salp_Swarm_Algorithm) : Salp Swarm Algorithm to Minimize Functions with Continuous Variables
 * [WOA (Whale Optimization Algorithm)]( https://github.com/Valdecy/Metaheuristic-Whale_Optimization_Algorithm) : Whale Optimization Algorithm to Minimize Functions with Continuous Variables
 
-## MVDA (Multivariate Data Analysis) - [R & SPSS]
+## MVDA (Multivariate Data Analysis) - [R , SPSS]
 
 * [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
     - Lesson 03 - Exploratory Factor Analysis

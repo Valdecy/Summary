@@ -1,6 +1,6 @@
 # SUMMARY
 
-01) [Apps - Multicriteria Decision Aids - Java](#apps---multicriteria-decision-aids---java)
+01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids---java)
 02) [Apps - Operations Research  - Java](#apps---operations-research---java)
 03) [Data Science - Association Rules - Python](#data-science---association-rules---python)
 04) [Data Science - Classification Algorithms - Python](#data-science---classification-algorithms---python)
@@ -17,8 +17,9 @@
 15) [Others - Python](#others---python)
 
 
-## Apps - Multicriteria Decision Aids - Java
+## Apps - Multicriteria Decision Aids - Java/Python
 
+* [ELECTRE-Tree (Inference of ELECTRE Tri-B Parameters)](https://github.com/Valdecy/ELECTRE-TREE)  : A python implementation of the ELECTRE-Tree Algorithm. This algorithm can elicitate (infer) all or any combination of the following ELECTRE Tri-B parameters: criteria weights, indifference threshold,  preference threshold, veto threshold, and the lambda cut level.
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
 

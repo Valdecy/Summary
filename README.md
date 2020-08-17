@@ -1,7 +1,7 @@
 # SUMMARY
 
-01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids---java)
-02) [Apps - Operations Research  - Java](#apps---operations-research---java)
+01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids---java/python)
+02) [Apps - Operations Research  - Java/Python](#apps---operations-research---java/python)
 03) [Data Science - Association Rules - Python](#data-science---association-rules---python)
 04) [Data Science - Classification Algorithms - Python](#data-science---classification-algorithms---python)
 05) [Data Science - Decision Trees - Python](#data-science---decision-trees---python)
@@ -23,9 +23,10 @@
 * [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. Lessons Included.
 * [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. Lessons Included.
 
-## Apps - Operations Research - Java
+## Apps - Operations Research - Java/Python
 * [J-Horizon]( https://github.com/Valdecy/J-Horizon) : A Vehicle Routing Problem Software. CVRP (Capacitated VRP), MDVRP (Multiple Depot VRP), VRPTW (VRP with Time Windows), VRPB (VRP with Backhauls), VRPPD (VRP with Pickups and Deliveries), VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
+* [pyVRP]( https://github.com/Valdecy/pyVRP) : The pyVRP is python library that solves (using Genetic Algorithms): Capacitated VRP, Multiple Depot VRP, VRP with Time Windows, VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
 
 ## Data Science - Association Rules - Python
 

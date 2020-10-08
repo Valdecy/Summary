@@ -1,4 +1,4 @@
-# SUMMARY
+SUMMARY
 
 01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids)
 02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
@@ -33,7 +33,7 @@
 ## Data Science - Association Rules
 
 * [Apriori Algorithm]( https://github.com/Valdecy/Association-Rules-Apriori) : Apriori Algorithm - An Association Rule Learning Over Transactions Databases
-* [Apriori Algorithm Lesson]( https://www.researchgate.net/publication/344388789_Data_Science-Association_Rules)
+* [Apriori Algorithm Lesson]( https://www.researchgate.net/publication/344388789_Data_Science-Association_Rules) 
 
 ## Data Science - Classification Algorithms
 
@@ -157,28 +157,28 @@
 ## Multivariate Data Analysis
 
 * [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
-    - Lesson 03 - Exploratory Factor Analysis
-    - Lesson 04 - Multidimensional Scaling
-    - Lesson 05 - Correspondence Analysis
-    - Lesson 06 - Discriminant Analysis
-    - Lesson 07 - Multiple Linear Regression
-    - Lesson 08 - Logistic Regression (Binary)
-    - Lesson 09 - Logistic Regression (Multinomial)
-    - Lesson 10 - Confirmatory Factor Analysis
-    - Lesson 11 - Canonical Correlation
+    - [Lesson 03 - Exploratory Factor Analysis]( https://www.researchgate.net/publication/308416200_Multivariate_Data_Analysis_R_Software_-_03_-_Exploratory_Factor_Analysis)
+    - [Lesson 04 - Multidimensional Scaling]( https://www.researchgate.net/publication/308775228_Multivariate_Data_Analysis_R_Software_-_04_-_Multidimensional_Scaling)
+    - [Lesson 05 - Correspondence Analysis]( https://www.researchgate.net/publication/311161093_Multivariate_Data_Analysis_R_Software_-_05_-_Correspondence_Analysis)
+    - [Lesson 06 - Discriminant Analysis]( https://www.researchgate.net/publication/311162848_Multivariate_Data_Analysis_R_Software_-_06_-_Discriminant_Analysis)
+    - [Lesson 07 - Multiple Linear Regression]( https://www.researchgate.net/publication/311163905_Multivariate_Data_Analysis_R_Software_-_07_-_Multiple_Linear_Regression)
+    - [Lesson 08 - Logistic Regression (Binary)]( https://www.researchgate.net/publication/311165290_Multivariate_Data_Analysis_R_Software_-_08_-_Binary_Logistic_Regression_Logit)
+    - [Lesson 09 - Logistic Regression (Multinomial)]( https://www.researchgate.net/publication/330564691_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression)
+    - [Lesson 10 - Confirmatory Factor Analysis]( https://www.researchgate.net/publication/335027894_Multivariate_Data_Analysis_R_Software_-_10_-Confirmatory_Factor_Analysis)
+    - [Lesson 11 - Canonical Correlation]( https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis)
 
 * [MVDA Lessons (SPSS)]( https://github.com/Valdecy/MVDA) :
-    - Lesson 01 - Introduction
-    - Lesson 02 - Scales & Descriptive Statistics
-    - Lesson 03 - Exploratory Factor Analysis
-    - Lesson 04 - Multidimensional Scaling
-    - Lesson 05 - Correspondence Analysis
-    - Lesson 06 - Discriminant Analysis
-    - Lesson 07 - Multiple Linear Regression
-    - Lesson 08 - Logistic Regression (Binary)
-    - Lesson 09 - Logistic Regression (Multinomial)
-    - Lesson 10 - Confirmatory Factor Analysis
-    - Lesson 11 - Canonical Correlation
+    - [Lesson 01 - Introduction]( https://www.researchgate.net/publication/281465399_Estatistica_Multivariada_SPSS_-_01_-_Introducao)
+    - [Lesson 02 - Scales & Descriptive Statistics]( https://www.researchgate.net/publication/281465527_Estatistica_Multivariada_SPSS_-_02_-_Escalas_de_Mensuracao_e_Confiabilidade)
+    - [Lesson 03 - Exploratory Factor Analysis]( https://www.researchgate.net/publication/281465528_Estatistica_Multivariada_SPSS_-_03_-_Analise_Fatorial_Exploratoria_e_Analise_de_Componentes_Principais)
+    - [Lesson 04 - Multidimensional Scaling]( https://www.researchgate.net/publication/287199018_Estatistica_Multivariada_SPSS_-_04_-_Escalonamento_Multidimensional)
+    - [Lesson 05 - Correspondence Analysis]( https://www.researchgate.net/publication/287198876_Estatistica_Multivariada_SPSS_-_05_-_Analise_de_Correspondencia)
+    - [Lesson 06 - Discriminant Analysis]( https://www.researchgate.net/publication/287199025_Estatistica_Multivariada_SPSS_-_06_-_Analise_Discriminante)
+    - [Lesson 07 - Multiple Linear Regression]( https://www.researchgate.net/publication/287198885_Estatistica_Multivariada_SPSS_-_07_-_Regressao_Linear_Multipla)
+    - [Lesson 08 - Logistic Regression (Binary)]( https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria)
+    - [Lesson 09 - Logistic Regression (Multinomial)]( https://www.researchgate.net/publication/329093018_Estatistica_Multivariada_SPSS_-_09_-_Regressao_Logistica_Multinomial)
+    - [Lesson 10 - Confirmatory Factor Analysis]( https://www.researchgate.net/publication/335027893_Estatistica_Multivariada_SPSS_-_10_-_Analise_Fatorial_Confirmatoria)
+    - [Lesson 11 - Canonical Correlation]( https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica)
 
 ## Others
 * [LUDPP (LU Decomposition with Partial Pivoting)]( https://github.com/Valdecy/LU_Decompostion) : Lower–Upper Decomposition with Partial Pivoting

@@ -1,4 +1,4 @@
-SUMMARY
+# SUMMARY
 
 01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids)
 02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
@@ -37,7 +37,7 @@ SUMMARY
 
 ## Data Science - Classification Algorithms
 
-* [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Naive Bayes Classifier for Supervised Learning Problems
+* [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Classifier for Supervised Learning Problems
 * [Naive Baye Classifier Lesson]( https://www.researchgate.net/publication/344389340_DS-Classification-07-NB)
 * [Support Vector Machines Lesson]( https://www.researchgate.net/publication/344389448_DS-Classification-08-SVM)
 
@@ -54,14 +54,14 @@ SUMMARY
 
 ## Data Science - Decision Trees
 
-* [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : ID3 Algorithm - A Decision Tree for Categorical Data with Pruning Methods
-* [ID3 (Iterative Dichotomiser 3 Lesson)]( https://www.researchgate.net/publication/344388967_DS-Classification-03-ID3) 
-* [C4.5]( https://github.com/Valdecy/C4.5) : C4.5 Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
+* [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : A Decision Tree for Categorical Data with Pruning Methods
+* [ID3 (Iterative Dichotomiser 3) Lesson]( https://www.researchgate.net/publication/344388967_DS-Classification-03-ID3) 
+* [C4.5]( https://github.com/Valdecy/C4.5) : A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [C4.5 Lesson]( https://www.researchgate.net/publication/344389246_DS-Classification-04-C45) 
-* [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : CART Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
+* [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
 * [CART (Classification And Regression Trees) Lesson](  https://www.researchgate.net/publication/344388902_DS-Classification-02-CART)
 * [CHAID (Chi-square Automatic Interaction Detection) Lesson](  https://www.researchgate.net/publication/344388885_DS-Classification-01-CHAID)
-* [Random Forest]( https://github.com/Valdecy/Random-Forest) : Random Forest Algorithm - A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
+* [Random Forest]( https://github.com/Valdecy/Random-Forest) : A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
 * [Random Forest Lesson]( https://www.researchgate.net/publication/344389431_DS-Classification-05-RF)
 
 ## Data Science - Recommender Systems
@@ -87,7 +87,7 @@ SUMMARY
 * [Neural Network Lesson]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron)
 * [Convolutional Neural Network Lesson]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network)
 * [Recurrent Neural Network Lesson]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network)
-* [Generative Adversarial Networks Lesson]( hhttps://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks)
+* [Generative Adversarial Networks Lesson]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks)
 
 ## Data Science - Reinforcement Learning
 

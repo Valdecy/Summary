@@ -16,7 +16,7 @@
 14) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
 15) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
 16) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
-17) [Multivariate Data Analysis - R and SPSS](#multivariate-data-analysis)
+17) [Multivariate Data Analysis - R and SPSS (Lesson Included)](#multivariate-data-analysis)
 18) [Others - Python](#others)
 
 ## Apps - Multicriteria Decision Aids

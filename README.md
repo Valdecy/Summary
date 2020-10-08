@@ -2,19 +2,22 @@
 
 01) [Apps - Multicriteria Decision Aids - Java/Python](#apps---multicriteria-decision-aids)
 02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
-03) [Data Science - Association Rules - Python](#data-science---association-rules)
-04) [Data Science - Classification Algorithms - Python](#data-science---classification-algorithms)
-05) [Data Science - Decision Trees - Python](#data-science---decision-trees)
-06) [Data Science - Recommender Systems - Python](#data-science---recommender-systems)
-07) [Data Science - Natural Language Processing - Python](#data-science---natural-language-processing)
-08) [Data Science - Neural Networks - Python](#data-science---neural-networks)
-09) [Forecasting - Python](#forecasting)
-10) [Metaheuristics - Classical - Python](#metaheuristics---classical)
-11) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
-12) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
-13) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
-14) [Multivariate Data Analysis - R and SPSS](#multivariate-data-analysis)
-15) [Others - Python](#others)
+03) [Data Science - Association Rules - Python (Lesson Included)](#data-science---association-rules)
+04) [Data Science - Classification Algorithms - Python (Lesson Included)](#data-science---classification-algorithms)
+05) [Data Science - Regression Algorithms - Python (Lesson Included)](#data-science---regression-algorithms)
+06) [Data Science - Clustering Algorithms - Python (Lesson Included)](#data-science---clustering-algorithms)
+07) [Data Science - Decision Trees - Python (Lesson Included)](#data-science---decision-trees)
+08) [Data Science - Recommender Systems - Python (Lesson Included)](#data-science---recommender-systems)
+09) [Data Science - Natural Language Processing - Python (Lesson Included)](#data-science---natural-language-processing)
+10) [Data Science - Neural Networks - Python (Lesson Included)](#data-science---neural-networks)
+11) [Data Science - Reinforcement Learning - Python (Lesson Included)](#data-science---reinforcement-learning)
+12) [Forecasting - Python](#forecasting)
+13) [Metaheuristics - Classical - Python](#metaheuristics---classical)
+14) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
+15) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
+16) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
+17) [Multivariate Data Analysis - R and SPSS](#multivariate-data-analysis)
+18) [Others - Python](#others)
 
 ## Apps - Multicriteria Decision Aids
 
@@ -30,17 +33,36 @@
 ## Data Science - Association Rules
 
 * [Apriori Algorithm]( https://github.com/Valdecy/Association-Rules-Apriori) : Apriori Algorithm - An Association Rule Learning Over Transactions Databases
+* [Apriori Algorithm Lesson]( https://www.researchgate.net/publication/344388789_Data_Science-Association_Rules)
 
 ## Data Science - Classification Algorithms
 
 * [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Naive Bayes Classifier for Supervised Learning Problems
+* [Naive Baye Classifier Lesson]( https://www.researchgate.net/publication/344389340_DS-Classification-07-NB)
+* [Support Vector Machines Lesson]( https://www.researchgate.net/publication/344389448_DS-Classification-08-SVM)
+
+## Data Science - Regression Algorithms
+
+* [Multiple Linear Regression Lesson]( https://www.researchgate.net/publication/344389476_DS-Regression-01-Multiple_Linear_Regression)
+* [Logistic Regression Lesson]( https://www.researchgate.net/publication/344389387_DS-Regression-02-Logistic_Regression)
+* [Multinomial Regression Lesson]( https://www.researchgate.net/publication/344389641_DS-Regression-03-Multinomial_Regression)
+* [Support Vector Regression Lesson]( https://www.researchgate.net/publication/344389401_DS-Regression-04-SVR)
+
+## Data Science - Clustering Algorithms
+
+* [Agglomerative Hierarchical Methods, DIANA, K-Means, DBSCAN, OPTICS Lesson]( https://www.researchgate.net/publication/344389357_DS-ClusteringAgglomerative_Hierarchical_Methods_DIANA_K-Means_DBSCAN_OPTICS)
 
 ## Data Science - Decision Trees
 
 * [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : ID3 Algorithm - A Decision Tree for Categorical Data with Pruning Methods
+* [ID3 (Iterative Dichotomiser 3 Lesson)]( https://www.researchgate.net/publication/344388967_DS-Classification-03-ID3) 
 * [C4.5]( https://github.com/Valdecy/C4.5) : C4.5 Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
+* [C4.5 Lesson]( https://www.researchgate.net/publication/344389246_DS-Classification-04-C45) 
 * [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : CART Algorithm - A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
+* [CART (Classification And Regression Trees) Lesson](  https://www.researchgate.net/publication/344388902_DS-Classification-02-CART)
+* [CHAID (Chi-square Automatic Interaction Detection) Lesson](  https://www.researchgate.net/publication/344388885_DS-Classification-01-CHAID)
 * [Random Forest]( https://github.com/Valdecy/Random-Forest) : Random Forest Algorithm - A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
+* [Random Forest Lesson]( https://www.researchgate.net/publication/344389431_DS-Classification-05-RF)
 
 ## Data Science - Recommender Systems
 
@@ -51,15 +73,25 @@
 * [CF Latent Factors (Collaborative Filtering - Latent Factors)](  https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Regression_Latent_Factors) : Collaborative Filtering Function using Regression with Latent Factors Approach
 * [CF Nearest Neighbors (Collaborative Filtering - Nearest Neighbors)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Nearest_Neighbors) : Collaborative Filtering Function using a Nearest Neighbors Approach
 * [CF SVD (Collaborative Filtering - SVD)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-SVD) : Collaborative Filtering Function using a SVD (Singular Value Decomposition) Approach
+* [Recommender Systems Lesson]( https://www.researchgate.net/publication/344389574_DS-Recommender_Systems)
 
 ## Data Science - Natural Language Processing
 
 * [LDA (Latent Dirichlet Allocation)]( https://github.com/Valdecy/Latent-Dirichlet-Allocation) : Latent Dirichlet Allocation (LDA) function. Also computes the dtm, binary dtm, tf dtm and tf-idf dtm
+* [LDA (Latent Dirichlet Allocation) Lesson]( https://www.researchgate.net/publication/344301339_Data_Science-Natural_Language_Processing-01-Latent_Dirichlet_Allocation)
+* [Word Embedding Lesson]( https://www.researchgate.net/publication/344301285_Data_Science-Natural_Language_Processing-02-Word_Embedding)
 
 ## Data Science - Neural Networks
 
-* [CNN (Convolutional Neural Network)]( https://github.com/Valdecy/SLR) : SLR
 * [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Pure Python Neural Network Function for Binary or Linear Problems
+* [Neural Network Lesson]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron)
+* [Convolutional Neural Network Lesson]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network)
+* [Recurrent Neural Network Lesson]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network)
+* [Generative Adversarial Networks Lesson]( hhttps://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks)
+
+## Data Science - Reinforcement Learning
+
+* [Reinforcement Learning Lesson]( https://www.researchgate.net/publication/344301406_Data_Science-Reinforcement_Learning-01-Tabular_Reinforcement_Learning)
 
 ## Forecasting
 

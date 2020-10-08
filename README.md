@@ -156,7 +156,8 @@
 
 ## Multivariate Data Analysis
 
-* [MVDA Lessons (R) - Codes in R available]( https://github.com/Valdecy/MVDA) :
+* MVDA Lessons ( R ):
+    - [R Codes]( https://github.com/Valdecy/MVDA)
     - [Lesson 03 - Exploratory Factor Analysis]( https://www.researchgate.net/publication/308416200_Multivariate_Data_Analysis_R_Software_-_03_-_Exploratory_Factor_Analysis)
     - [Lesson 04 - Multidimensional Scaling]( https://www.researchgate.net/publication/308775228_Multivariate_Data_Analysis_R_Software_-_04_-_Multidimensional_Scaling)
     - [Lesson 05 - Correspondence Analysis]( https://www.researchgate.net/publication/311161093_Multivariate_Data_Analysis_R_Software_-_05_-_Correspondence_Analysis)
@@ -167,7 +168,7 @@
     - [Lesson 10 - Confirmatory Factor Analysis]( https://www.researchgate.net/publication/335027894_Multivariate_Data_Analysis_R_Software_-_10_-Confirmatory_Factor_Analysis)
     - [Lesson 11 - Canonical Correlation]( https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis)
 
-* [MVDA Lessons (SPSS)]( https://github.com/Valdecy/MVDA) :
+* MVDA Lessons ( SPSS ) :
     - [Lesson 01 - Introduction]( https://www.researchgate.net/publication/281465399_Estatistica_Multivariada_SPSS_-_01_-_Introducao)
     - [Lesson 02 - Scales & Descriptive Statistics]( https://www.researchgate.net/publication/281465527_Estatistica_Multivariada_SPSS_-_02_-_Escalas_de_Mensuracao_e_Confiabilidade)
     - [Lesson 03 - Exploratory Factor Analysis]( https://www.researchgate.net/publication/281465528_Estatistica_Multivariada_SPSS_-_03_-_Analise_Fatorial_Exploratoria_e_Analise_de_Componentes_Principais)

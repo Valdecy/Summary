@@ -28,7 +28,7 @@
 ## Apps - Operations Research
 * [J-Horizon]( https://github.com/Valdecy/J-Horizon) : A Vehicle Routing Problem Software. CVRP (Capacitated VRP), MDVRP (Multiple Depot VRP), VRPTW (VRP with Time Windows), VRPB (VRP with Backhauls), VRPPD (VRP with Pickups and Deliveries), VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
-* [pyVRP]( https://github.com/Valdecy/pyVRP) : The pyVRP is python library that solves (using Genetic Algorithms): Capacitated VRP, Multiple Depot VRP, VRP with Time Windows, VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
+* [pyVRP]( https://github.com/Valdecy/pyVRP) : The pyVRP is python library that solves (using Genetic Algorithms): Capacitated VRP, Multiple Depot VRP, VRP with Time Windows, VRP with Homogeneous or Heterogeneous Fleet, Finite or Infinite Fleet, TSP, mTSP and various combination of these types
 
 ## Data Science - Association Rules
 

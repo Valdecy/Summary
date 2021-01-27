@@ -92,7 +92,7 @@
 
 ## Data Science - Reinforcement Learning
 
-* [**Reinforcement Learning Lesson**]( https://www.researchgate.net/publication/344301406_Data_Science-Reinforcement_Learning-01-Tabular_Reinforcement_Learning) ([ Colab Demo - Q Learning - Gridworld ](https://colab.research.google.com/drive/1Zkg1AYLiUb2CFAWNJI7fYrauPQezqsgT?usp=sharing)) ([ Colab Demo - Q Learning - Tic Tac Toe ](https://colab.research.google.com/drive/1NBy5I6YkLbYFskemH7e87o7OMY1DbQwZ?usp=sharing))
+* [**Reinforcement Learning Lesson**]( https://www.researchgate.net/publication/344301406_Data_Science-Reinforcement_Learning-01-Tabular_Reinforcement_Learning) ([ Colab Demo - Q Learning - Gridworld ](https://colab.research.google.com/drive/1Zkg1AYLiUb2CFAWNJI7fYrauPQezqsgT?usp=sharing)) ([ Colab Demo - Q Learning - TicTacToe ](https://colab.research.google.com/drive/1NBy5I6YkLbYFskemH7e87o7OMY1DbQwZ?usp=sharing))
 
 ## Data Science - Deep Reinforcement Learning
 * [**Deep Reinforcement Learning Lesson**](https://www.researchgate.net/publication/348691424_Data_Science-Reinforcement_Learning-02-Deep_Q_Network_A2C) ([ Colab Demo - DQN - Gridworld ](https://colab.research.google.com/drive/1q1ktNEdAALTwEtTMthY6ykLi0h1KopV6?usp=sharing)) ([ Colab Demo - A2C - Gridworld](https://colab.research.google.com/drive/1vA33AXSiLNPSwTPsu_3TCcF8ogaX1hoc?usp=sharing))

@@ -1,6 +1,6 @@
 # SUMMARY
 
-01) [Apps - Multicriteria Decision Aids - Java/Python (<font color = 'red'>**Lesson Included**</font>)](#apps---multicriteria-decision-aids)
+01) [Apps - Multicriteria Decision Aids - Java/Python (**Lesson Included**)](#apps---multicriteria-decision-aids)
 02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
 03) [Data Science - Association Rules - Python (**Lesson Included**)](#data-science---association-rules)
 04) [Data Science - Classification Algorithms - Python (**Lesson Included**)](#data-science---classification-algorithms)

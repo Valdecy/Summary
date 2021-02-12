@@ -1,23 +1,23 @@
 # SUMMARY
 
-01) [Apps - Multicriteria Decision Aids - Java/Python (**Lesson Included**)](#apps---multicriteria-decision-aids)
+01) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
 02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
-03) [Data Science - Association Rules - Python (**Lesson Included**)](#data-science---association-rules)
-04) [Data Science - Classification Algorithms - Python (**Lesson Included**)](#data-science---classification-algorithms)
-05) [Data Science - Regression Algorithms - Python (**Lesson Included**)](#data-science---regression-algorithms)
-06) [Data Science - Clustering Algorithms - Python (**Lesson Included**)](#data-science---clustering-algorithms)
-07) [Data Science - Decision Trees - Python (**Lesson Included**)](#data-science---decision-trees)
-08) [Data Science - Recommender Systems - Python (**Lesson Included**)](#data-science---recommender-systems)
-09) [Data Science - Natural Language Processing - Python (**Lesson Included**)](#data-science---natural-language-processing)
-10) [Data Science - Neural Networks - Python (**Lesson Included**)](#data-science---neural-networks)
-11) [Data Science - Reinforcement Learning - Python (**Lesson Included**)](#data-science---reinforcement-learning)
-12) [Data Science - Deep Reinforcement Learning - Python (**Lesson Included**)](#data-science---deep-reinforcement-learning)
+03) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
+04) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
+05) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)
+06) [Data Science - Clustering Algorithms - Python (**`Lesson Included`**)](#data-science---clustering-algorithms)
+07) [Data Science - Decision Trees - Python (**`Lesson Included`**)](#data-science---decision-trees)
+08) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
+09) [Data Science - Natural Language Processing - Python (**`Lesson Included`**)](#data-science---natural-language-processing)
+10) [Data Science - Neural Networks - Python (**`Lesson Included`**)](#data-science---neural-networks)
+11) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
+12) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
 13) [Forecasting - Python](#forecasting)
 14) [Metaheuristics - Classical - Python](#metaheuristics---classical)
 15) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
 16) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
 17) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
-18) [Multivariate Data Analysis - R and SPSS  (**Lesson Included**)](#multivariate-data-analysis)
+18) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
 19) [Others - Python](#others)
 
 ## Apps - Multicriteria Decision Aids
@@ -27,9 +27,9 @@
 
 * [ELECTRE-Tree (Inference of ELECTRE Tri-B Parameters)](https://github.com/Valdecy/ELECTRE-TREE)  : A python implementation of the ELECTRE-Tree Algorithm. The ELECTRE-Tree can elicitate (infer) all or any combination of the following ELECTRE Tri-B parameters: criteria weights, indifference threshold,  preference threshold, veto threshold, and the lambda cut level ([ Colab Demo ](https://colab.research.google.com/drive/1eAJ89u2gqMxp4pIfUeBHQlJqrb64V7_D?usp=sharing))
 
-* [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. **Lesson Included (slides in pt-br)**. [ELECTRE I](https://www.researchgate.net/publication/319504754_MCDA-01-ELECTRE_I) , [ELECTRE I_v](https://www.researchgate.net/publication/319506914_MCDA-02a-ELECTRE_I_v) , [ELECTRE I_s](https://www.researchgate.net/publication/320211536_MCDA-02b-ELECTRE_I_s) , [ELECTRE II](https://www.researchgate.net/publication/320472825_MCDA-03-ELECTRE_II) , [ELECTRE III](https://www.researchgate.net/publication/319504879_MCDA-04-ELECTRE_III) , [ELECTRE IV](https://www.researchgate.net/publication/319504765_MCDA-05-ELECTRE_IV) and [ELECTRE Tri](https://www.researchgate.net/publication/319504787_MCDA-06-ELECTRE_TRI) 
+* [J-ELECTRE (ELimination and Choice Expressing REality)](  https://github.com/Valdecy/J-Electre) : Electre I, I_s, I_v, II, III, IV, TRI and TRI-ME Software. **Lesson Included (slides in pt-br)**. [**`ELECTRE I Lesson`**](https://www.researchgate.net/publication/319504754_MCDA-01-ELECTRE_I) , [**`ELECTRE I_v Lesson`**](https://www.researchgate.net/publication/319506914_MCDA-02a-ELECTRE_I_v) , [**`ELECTRE I_s Lesson`**](https://www.researchgate.net/publication/320211536_MCDA-02b-ELECTRE_I_s) , [**`ELECTRE II Lesson`**](https://www.researchgate.net/publication/320472825_MCDA-03-ELECTRE_II) , [**`ELECTRE III Lesson`**](https://www.researchgate.net/publication/319504879_MCDA-04-ELECTRE_III) , [**`ELECTRE IV Lesson`**](https://www.researchgate.net/publication/319504765_MCDA-05-ELECTRE_IV) and [**`ELECTRE Tri Lesson`**](https://www.researchgate.net/publication/319504787_MCDA-06-ELECTRE_TRI) 
 
-* [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. **Lessons Included**. [AHP](https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process) 
+* [Voracious-AHP (Analytic Hierarquic Process)](https://github.com/Valdecy/Voracious-AHP)  : A software that can remove or reduce the inconsistency from an AHP Matrix. **Lessons Included**. [**`AHP Lesson`**](https://www.researchgate.net/publication/330599469_AHP_-_Analytic_Hierarchy_Process) 
 
 ## Apps - Operations Research
 * [J-Horizon]( https://github.com/Valdecy/J-Horizon) : A Vehicle Routing Problem Software. CVRP (Capacitated VRP), MDVRP (Multiple Depot VRP), VRPTW (VRP with Time Windows), VRPB (VRP with Backhauls), VRPPD (VRP with Pickups and Deliveries), VRP with Homogeneous or Heterogeneous Fleet, TSP, mTSP and various combination of these types
@@ -41,36 +41,36 @@
 ## Data Science - Association Rules
 
 * [Apriori Algorithm]( https://github.com/Valdecy/Association-Rules-Apriori) : Apriori Algorithm - An Association Rule Learning Over Transactions Databases
-* [**Apriori Algorithm Lesson**]( https://www.researchgate.net/publication/344388789_Data_Science-Association_Rules) 
+* [**`Apriori Algorithm Lesson`**]( https://www.researchgate.net/publication/344388789_Data_Science-Association_Rules) 
 
 ## Data Science - Classification Algorithms
 
 * [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Classifier for Supervised Learning Problems
-* [**Naive Baye Classifier Lesson**]( https://www.researchgate.net/publication/344389340_DS-Classification-07-NB)
-* [**Support Vector Machines Lesson**]( https://www.researchgate.net/publication/344389448_DS-Classification-08-SVM)
+* [**`Naive Baye Classifier Lesson`**]( https://www.researchgate.net/publication/344389340_DS-Classification-07-NB)
+* [**`Support Vector Machines Lesson`**]( https://www.researchgate.net/publication/344389448_DS-Classification-08-SVM)
 
 ## Data Science - Regression Algorithms
 
-* [**Multiple Linear Regression Lesson**]( https://www.researchgate.net/publication/344389476_DS-Regression-01-Multiple_Linear_Regression)
-* [**Logistic Regression Lesson**]( https://www.researchgate.net/publication/344389387_DS-Regression-02-Logistic_Regression)
-* [**Multinomial Regression Lesson**]( https://www.researchgate.net/publication/344389641_DS-Regression-03-Multinomial_Regression)
-* [**Support Vector Regression Lesson**]( https://www.researchgate.net/publication/344389401_DS-Regression-04-SVR)
+* [**`Multiple Linear Regression Lesson`**]( https://www.researchgate.net/publication/344389476_DS-Regression-01-Multiple_Linear_Regression)
+* [**`Logistic Regression Lesson`**]( https://www.researchgate.net/publication/344389387_DS-Regression-02-Logistic_Regression)
+* [**`Multinomial Regression Lesson`**]( https://www.researchgate.net/publication/344389641_DS-Regression-03-Multinomial_Regression)
+* [**`Support Vector Regression Lesson`**]( https://www.researchgate.net/publication/344389401_DS-Regression-04-SVR)
 
 ## Data Science - Clustering Algorithms
 
-* [**Agglomerative Hierarchical Methods, DIANA, K-Means, DBSCAN, OPTICS Lesson**]( https://www.researchgate.net/publication/344389357_DS-ClusteringAgglomerative_Hierarchical_Methods_DIANA_K-Means_DBSCAN_OPTICS)
+* [**`Agglomerative Hierarchical Methods, DIANA, K-Means, DBSCAN, OPTICS Lesson`**]( https://www.researchgate.net/publication/344389357_DS-ClusteringAgglomerative_Hierarchical_Methods_DIANA_K-Means_DBSCAN_OPTICS)
 
 ## Data Science - Decision Trees
 
 * [ID3 (Iterative Dichotomiser 3)]( https://github.com/Valdecy/Iterative-Dichotomiser-3) : A Decision Tree for Categorical Data with Pruning Methods
-* [**ID3 (Iterative Dichotomiser 3) Lesson**]( https://www.researchgate.net/publication/344388967_DS-Classification-03-ID3) 
+* [**`ID3 (Iterative Dichotomiser 3) Lesson`**]( https://www.researchgate.net/publication/344388967_DS-Classification-03-ID3) 
 * [C4.5]( https://github.com/Valdecy/C4.5) : A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
-* [**C4.5 Lesson**]( https://www.researchgate.net/publication/344389246_DS-Classification-04-C45) 
+* [**`C4.5 Lesson`**]( https://www.researchgate.net/publication/344389246_DS-Classification-04-C45) 
 * [CART (Classification And Regression Trees)]( https://github.com/Valdecy/CART) : A Decision Tree for Numerical and Categorical Data that can Handle Missing Values and Pruning Methods
-* [**CART (Classification And Regression Trees) Lesson**](  https://www.researchgate.net/publication/344388902_DS-Classification-02-CART)
-* [**CHAID (Chi-square Automatic Interaction Detection) Lesson**](  https://www.researchgate.net/publication/344388885_DS-Classification-01-CHAID)
+* [**`CART (Classification And Regression Trees) Lesson`**](  https://www.researchgate.net/publication/344388902_DS-Classification-02-CART)
+* [**`CHAID (Chi-square Automatic Interaction Detection) Lesson`**](  https://www.researchgate.net/publication/344388885_DS-Classification-01-CHAID)
 * [Random Forest]( https://github.com/Valdecy/Random-Forest) : A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
-* [**Random Forest Lesson**]( https://www.researchgate.net/publication/344389431_DS-Classification-05-RF)
+* [**`Random Forest Lesson`**]( https://www.researchgate.net/publication/344389431_DS-Classification-05-RF)
 
 ## Data Science - Recommender Systems
 
@@ -81,32 +81,32 @@
 * [CF Latent Factors (Collaborative Filtering - Latent Factors)](  https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Regression_Latent_Factors) : Collaborative Filtering Function using Regression with Latent Factors Approach
 * [CF Nearest Neighbors (Collaborative Filtering - Nearest Neighbors)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-Nearest_Neighbors) : Collaborative Filtering Function using a Nearest Neighbors Approach
 * [CF SVD (Collaborative Filtering - SVD)]( https://github.com/Valdecy/Recommender-Systems-Collaborative_Filtering-SVD) : Collaborative Filtering Function using a SVD (Singular Value Decomposition) Approach
-* [**Recommender Systems Lesson**]( https://www.researchgate.net/publication/344389574_DS-Recommender_Systems)
+* [**`Recommender Systems Lesson`**]( https://www.researchgate.net/publication/344389574_DS-Recommender_Systems)
 
 ## Data Science - Natural Language Processing
 
 * [LDA (Latent Dirichlet Allocation)]( https://github.com/Valdecy/Latent-Dirichlet-Allocation) : Latent Dirichlet Allocation (LDA) function. Also computes the dtm, binary dtm, tf dtm and tf-idf dtm
-* [**LDA (Latent Dirichlet Allocation) Lesson**]( https://www.researchgate.net/publication/344301339_Data_Science-Natural_Language_Processing-01-Latent_Dirichlet_Allocation) ([ Colab Demo ](https://colab.research.google.com/drive/1RImZXUKUNylCWXvw0rnB2tM98TVeSpIj?usp=sharing))
-* [**Word Embedding Lesson**]( https://www.researchgate.net/publication/344301285_Data_Science-Natural_Language_Processing-02-Word_Embedding) ([ Colab Demo - W2V ](https://colab.research.google.com/drive/1_UcxhmnWoc8nDsAwTn-ePAn2eY_M3oFJ?usp=sharing)) ([ Colab Demo - D2V ](https://colab.research.google.com/drive/13umlVM-bW5fZBPmKFCYIkXfwMR4OFV1A?usp=sharing))
+* [**`LDA (Latent Dirichlet Allocation) Lesson`**]( https://www.researchgate.net/publication/344301339_Data_Science-Natural_Language_Processing-01-Latent_Dirichlet_Allocation) ([ Colab Demo ](https://colab.research.google.com/drive/1RImZXUKUNylCWXvw0rnB2tM98TVeSpIj?usp=sharing))
+* [**`Word Embedding Lesson`**]( https://www.researchgate.net/publication/344301285_Data_Science-Natural_Language_Processing-02-Word_Embedding) ([ Colab Demo - W2V ](https://colab.research.google.com/drive/1_UcxhmnWoc8nDsAwTn-ePAn2eY_M3oFJ?usp=sharing)) ([ Colab Demo - D2V ](https://colab.research.google.com/drive/13umlVM-bW5fZBPmKFCYIkXfwMR4OFV1A?usp=sharing))
 
 ## Data Science - Neural Networks
 
 * [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Pure Python Neural Network Function for Binary or Linear Problems
-* [**Neural Network Lesson**]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1i0XbKTPl48w2OUFTSBalShdBjy-eMogZ?usp=sharing))
-* [**Convolutional Neural Network Lesson**]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network) ([ Colab Demo ](https://colab.research.google.com/drive/14bGd5k_FBFr77k2HGnd2Ckq02N3mYy2K?usp=sharing))
-* [**Recurrent Neural Network Lesson**]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network) ([ Colab Demo - NLP ](https://colab.research.google.com/drive/1zv5WgkGSvaneYygXOw4wiB9C43hNCxRT?usp=sharing)) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1svd7-iLnllef3XpAhqiDdsTrzxse5yF6?usp=sharing))
-* [**Generative Adversarial Networks Lesson**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing))
+* [**`Neural Network Lesson`**]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1i0XbKTPl48w2OUFTSBalShdBjy-eMogZ?usp=sharing))
+* [**`Convolutional Neural Network Lesson`**]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network) ([ Colab Demo ](https://colab.research.google.com/drive/14bGd5k_FBFr77k2HGnd2Ckq02N3mYy2K?usp=sharing))
+* [**`Recurrent Neural Network Lesson`**]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network) ([ Colab Demo - NLP ](https://colab.research.google.com/drive/1zv5WgkGSvaneYygXOw4wiB9C43hNCxRT?usp=sharing)) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1svd7-iLnllef3XpAhqiDdsTrzxse5yF6?usp=sharing))
+* [**`Generative Adversarial Networks Lesson`**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing))
 
 ## Data Science - Reinforcement Learning
 
-* [**Reinforcement Learning Lesson**]( https://www.researchgate.net/publication/344301406_Data_Science-Reinforcement_Learning-01-Tabular_Reinforcement_Learning) ([ Colab Demo - Q Learning - Gridworld ](https://colab.research.google.com/drive/1Zkg1AYLiUb2CFAWNJI7fYrauPQezqsgT?usp=sharing)) ([ Colab Demo - Q Learning - TicTacToe ](https://colab.research.google.com/drive/1NBy5I6YkLbYFskemH7e87o7OMY1DbQwZ?usp=sharing))
+* [**`Reinforcement Learning Lesson`**]( https://www.researchgate.net/publication/344301406_Data_Science-Reinforcement_Learning-01-Tabular_Reinforcement_Learning) ([ Colab Demo - Q Learning - Gridworld ](https://colab.research.google.com/drive/1Zkg1AYLiUb2CFAWNJI7fYrauPQezqsgT?usp=sharing)) ([ Colab Demo - Q Learning - TicTacToe ](https://colab.research.google.com/drive/1NBy5I6YkLbYFskemH7e87o7OMY1DbQwZ?usp=sharing))
 
 ## Data Science - Deep Reinforcement Learning
-* [**Deep Reinforcement Learning Lesson**](https://www.researchgate.net/publication/348691424_Data_Science-Reinforcement_Learning-02-Deep_Q_Network_A2C) ([ Colab Demo - DQN - Gridworld ](https://colab.research.google.com/drive/1q1ktNEdAALTwEtTMthY6ykLi0h1KopV6?usp=sharing)) ([ Colab Demo - A2C - Gridworld ](https://colab.research.google.com/drive/1vA33AXSiLNPSwTPsu_3TCcF8ogaX1hoc?usp=sharing))
+* [**`Deep Reinforcement Learning Lesson`**](https://www.researchgate.net/publication/348691424_Data_Science-Reinforcement_Learning-02-Deep_Q_Network_A2C) ([ Colab Demo - DQN - Gridworld ](https://colab.research.google.com/drive/1q1ktNEdAALTwEtTMthY6ykLi0h1KopV6?usp=sharing)) ([ Colab Demo - A2C - Gridworld ](https://colab.research.google.com/drive/1vA33AXSiLNPSwTPsu_3TCcF8ogaX1hoc?usp=sharing))
 
 ## Forecasting
 
-* [**Forecasting Lessons**]( https://github.com/Valdecy/Forecasting) :
+* [**`Forecasting Lessons`**]( https://github.com/Valdecy/Forecasting) :
     - Lesson 01 - Introduction to Forecasting
     - Lesson 02 - Time Series Decomposition
     - Lesson 03 - Holt's Method
@@ -168,29 +168,29 @@
 ## Multivariate Data Analysis
 
 * MVDA Lessons ( R ):
-    - [**R Codes**]( https://github.com/Valdecy/MVDA)
-    - [**Lesson 03 - Exploratory Factor Analysis**]( https://www.researchgate.net/publication/308416200_Multivariate_Data_Analysis_R_Software_-_03_-_Exploratory_Factor_Analysis)
-    - [**Lesson 04 - Multidimensional Scaling**]( https://www.researchgate.net/publication/308775228_Multivariate_Data_Analysis_R_Software_-_04_-_Multidimensional_Scaling)
-    - [**Lesson 05 - Correspondence Analysis**]( https://www.researchgate.net/publication/311161093_Multivariate_Data_Analysis_R_Software_-_05_-_Correspondence_Analysis)
-    - [**Lesson 06 - Discriminant Analysis**]( https://www.researchgate.net/publication/311162848_Multivariate_Data_Analysis_R_Software_-_06_-_Discriminant_Analysis)
-    - [**Lesson 07 - Multiple Linear Regression**]( https://www.researchgate.net/publication/311163905_Multivariate_Data_Analysis_R_Software_-_07_-_Multiple_Linear_Regression)
-    - [**Lesson 08 - Logistic Regression (Binary)**]( https://www.researchgate.net/publication/311165290_Multivariate_Data_Analysis_R_Software_-_08_-_Binary_Logistic_Regression_Logit)
-    - [**Lesson 09 - Logistic Regression (Multinomial)**]( https://www.researchgate.net/publication/330564691_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression)
-    - [**Lesson 10 - Confirmatory Factor Analysis**]( https://www.researchgate.net/publication/335027894_Multivariate_Data_Analysis_R_Software_-_10_-Confirmatory_Factor_Analysis)
-    - [**Lesson 11 - Canonical Correlation**]( https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis)
+    - [**`R Codes`**]( https://github.com/Valdecy/MVDA)
+    - [**`Lesson 03 - Exploratory Factor Analysis`**]( https://www.researchgate.net/publication/308416200_Multivariate_Data_Analysis_R_Software_-_03_-_Exploratory_Factor_Analysis)
+    - [**`Lesson 04 - Multidimensional Scaling`**]( https://www.researchgate.net/publication/308775228_Multivariate_Data_Analysis_R_Software_-_04_-_Multidimensional_Scaling)
+    - [**`Lesson 05 - Correspondence Analysis`**]( https://www.researchgate.net/publication/311161093_Multivariate_Data_Analysis_R_Software_-_05_-_Correspondence_Analysis)
+    - [**`Lesson 06 - Discriminant Analysis`**]( https://www.researchgate.net/publication/311162848_Multivariate_Data_Analysis_R_Software_-_06_-_Discriminant_Analysis)
+    - [**`Lesson 07 - Multiple Linear Regression`**]( https://www.researchgate.net/publication/311163905_Multivariate_Data_Analysis_R_Software_-_07_-_Multiple_Linear_Regression)
+    - [**`Lesson 08 - Logistic Regression (Binary)`**]( https://www.researchgate.net/publication/311165290_Multivariate_Data_Analysis_R_Software_-_08_-_Binary_Logistic_Regression_Logit)
+    - [**`Lesson 09 - Logistic Regression (Multinomial)`**]( https://www.researchgate.net/publication/330564691_Multivariate_Data_Analysis_R_Software_-_09_-_Multinomial_Logistic_Regression)
+    - [**`Lesson 10 - Confirmatory Factor Analysis`**]( https://www.researchgate.net/publication/335027894_Multivariate_Data_Analysis_R_Software_-_10_-Confirmatory_Factor_Analysis)
+    - [**`Lesson 11 - Canonical Correlation`**]( https://www.researchgate.net/publication/330563632_Multivariate_Data_Analysis_R_Software_-_11_-_Canonical_Correlation_Analysis)
 
 * MVDA Lessons ( SPSS ) :
-    - [**Lesson 01 - Introduction**]( https://www.researchgate.net/publication/281465399_Estatistica_Multivariada_SPSS_-_01_-_Introducao)
-    - [**Lesson 02 - Scales & Descriptive Statistics**]( https://www.researchgate.net/publication/281465527_Estatistica_Multivariada_SPSS_-_02_-_Escalas_de_Mensuracao_e_Confiabilidade)
-    - [**Lesson 03 - Exploratory Factor Analysis**]( https://www.researchgate.net/publication/281465528_Estatistica_Multivariada_SPSS_-_03_-_Analise_Fatorial_Exploratoria_e_Analise_de_Componentes_Principais)
-    - [**Lesson 04 - Multidimensional Scaling**]( https://www.researchgate.net/publication/287199018_Estatistica_Multivariada_SPSS_-_04_-_Escalonamento_Multidimensional)
-    - [**Lesson 05 - Correspondence Analysis**]( https://www.researchgate.net/publication/287198876_Estatistica_Multivariada_SPSS_-_05_-_Analise_de_Correspondencia)
-    - [**Lesson 06 - Discriminant Analysis**]( https://www.researchgate.net/publication/287199025_Estatistica_Multivariada_SPSS_-_06_-_Analise_Discriminante)
-    - [**Lesson 07 - Multiple Linear Regression**]( https://www.researchgate.net/publication/287198885_Estatistica_Multivariada_SPSS_-_07_-_Regressao_Linear_Multipla)
-    - [**Lesson 08 - Logistic Regression (Binary)**]( https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria)
-    - [**Lesson 09 - Logistic Regression (Multinomial)**]( https://www.researchgate.net/publication/329093018_Estatistica_Multivariada_SPSS_-_09_-_Regressao_Logistica_Multinomial)
-    - [**Lesson 10 - Confirmatory Factor Analysis**]( https://www.researchgate.net/publication/335027893_Estatistica_Multivariada_SPSS_-_10_-_Analise_Fatorial_Confirmatoria)
-    - [**Lesson 11 - Canonical Correlation**]( https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica)
+    - [**`Lesson 01 - Introduction`**]( https://www.researchgate.net/publication/281465399_Estatistica_Multivariada_SPSS_-_01_-_Introducao)
+    - [**`Lesson 02 - Scales & Descriptive Statistics`**]( https://www.researchgate.net/publication/281465527_Estatistica_Multivariada_SPSS_-_02_-_Escalas_de_Mensuracao_e_Confiabilidade)
+    - [**`Lesson 03 - Exploratory Factor Analysis`**]( https://www.researchgate.net/publication/281465528_Estatistica_Multivariada_SPSS_-_03_-_Analise_Fatorial_Exploratoria_e_Analise_de_Componentes_Principais)
+    - [**`Lesson 04 - Multidimensional Scaling`**]( https://www.researchgate.net/publication/287199018_Estatistica_Multivariada_SPSS_-_04_-_Escalonamento_Multidimensional)
+    - [**`Lesson 05 - Correspondence Analysis`**]( https://www.researchgate.net/publication/287198876_Estatistica_Multivariada_SPSS_-_05_-_Analise_de_Correspondencia)
+    - [**`Lesson 06 - Discriminant Analysis`**]( https://www.researchgate.net/publication/287199025_Estatistica_Multivariada_SPSS_-_06_-_Analise_Discriminante)
+    - [**`Lesson 07 - Multiple Linear Regression`**]( https://www.researchgate.net/publication/287198885_Estatistica_Multivariada_SPSS_-_07_-_Regressao_Linear_Multipla)
+    - [**`Lesson 08 - Logistic Regression (Binary)`**]( https://www.researchgate.net/publication/287198889_Estatistica_Multivariada_SPSS_-_08_-_Regressao_Logistica_Binaria)
+    - [**`Lesson 09 - Logistic Regression (Multinomial)`**]( https://www.researchgate.net/publication/329093018_Estatistica_Multivariada_SPSS_-_09_-_Regressao_Logistica_Multinomial)
+    - [**`Lesson 10 - Confirmatory Factor Analysis`**]( https://www.researchgate.net/publication/335027893_Estatistica_Multivariada_SPSS_-_10_-_Analise_Fatorial_Confirmatoria)
+    - [**`Lesson 11 - Canonical Correlation`**]( https://www.researchgate.net/publication/324841260_Estatistica_Multivariada_SPSS_-_11_-_Correlacao_Canonica)
 
 ## Others
 * [LUDPP (LU Decomposition with Partial Pivoting)]( https://github.com/Valdecy/LU_Decompostion) : Lower–Upper Decomposition with Partial Pivoting

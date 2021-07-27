@@ -134,6 +134,7 @@
 * [CEM (Cross Entropy Method)]( https://github.com/Valdecy/Metaheuristic-Cross_Entropy_Method) : Cross Entropy Method (or Kullback–Leibler divergence) to Minimize Functions with Continuous Variables
 * [DE (Differential Evolution)]( https://github.com/Valdecy/Metaheuristic-Differential_Evolution) : Differential Evolution to Minimize Functions with Continuous Variables
 * [GA (Genetic Algorithm)]( https://github.com/Valdecy/Metaheuristic-Genetic_Algorithm) : Genetic Algorithm to Minimize Functions with Continuous Variables
+* [**`Genetic Algorithm Lesson`**]( https://www.researchgate.net/publication/353477460_Metaheuristic_Lesson_Genetic_Algorithm_-Real_Coded)
 * [MA (Memetic Algorithm)]( https://github.com/Valdecy/Metaheuristic-Memetic_Algorithm) : Memetic Algorithm with Lamarckian Learning (xhc - Crossover Hill Climbing) to Minimize Functions with Continuous Variables. Real Values Encoding.
 * [RS (Random Search)]( https://github.com/Valdecy/Metaheuristic-Random_Search) : Random Search to Minimize Functions with Continuous Variables
 * [SA (Simulated Annealing)]( https://github.com/Valdecy/Metaheuristic-Simulated_Annealing) : Simulated Annealing to Minimize Functions with Continuous Variables

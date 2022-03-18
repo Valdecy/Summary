@@ -1,24 +1,29 @@
 # SUMMARY
 
-01) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
-02) [Apps - Operations Research  - Java/Python](#apps---operations-research)
-03) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
-04) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
-05) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)
-06) [Data Science - Clustering Algorithms - Python (**`Lesson Included`**)](#data-science---clustering-algorithms)
-07) [Data Science - Decision Trees - Python (**`Lesson Included`**)](#data-science---decision-trees)
-08) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
-09) [Data Science - Natural Language Processing - Python (**`Lesson Included`**)](#data-science---natural-language-processing)
-10) [Data Science - Neural Networks - Python (**`Lesson Included`**)](#data-science---neural-networks)
-11) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
-12) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
-13) [Forecasting - Python](#forecasting)
-14) [Metaheuristics - Classical - Python](#metaheuristics---classical)
-15) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
-16) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
-17) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
-18) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
-19) [Others - Python](#others)
+01) [Apps - Bibliometric and Scientometric - Python](#apps---bibliometric-and-scientometric)
+02) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
+03) [Apps - Operations Research  - Java/Python](#apps---operations-research)
+04) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
+05) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
+06) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)
+07) [Data Science - Clustering Algorithms - Python (**`Lesson Included`**)](#data-science---clustering-algorithms)
+08) [Data Science - Decision Trees - Python (**`Lesson Included`**)](#data-science---decision-trees)
+09) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
+11) [Data Science - Natural Language Processing - Python (**`Lesson Included`**)](#data-science---natural-language-processing)
+12) [Data Science - Neural Networks - Python (**`Lesson Included`**)](#data-science---neural-networks)
+13) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
+14) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
+15) [Forecasting - Python](#forecasting)
+16) [Metaheuristics - Classical - Python](#metaheuristics---classical)
+17) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
+18) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
+19) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
+20) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
+21) [Others - Python](#others)
+
+## Apps - Bibliometric and Scientometric 
+
+* [pyBibX](https://github.com/Valdecy/pyBibX): A Bibliometric and Scientometric python library - 'Scopus' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/1yHiMMZIKa-RrarXbPB9ca0gLN9YvvtPU?usp=sharing)); 'WOS' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/13HLjC4myTvYcjLk2XBTZKbWJ2aqZUST1?usp=sharing)); 'Your Own' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/19EYjgal9V1kemmzpHnyp6MSlk9S-kGHT?usp=sharing))
 
 ## Apps - Multicriteria Decision Aids
 

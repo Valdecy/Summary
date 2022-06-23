@@ -47,7 +47,7 @@
 
 * [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A python library that implements Metaheuristics to solve TSP problems
 
-* [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A python library that implements Multiobjective Optimization Algorithms or Many Objectives Optimization Algorithms
+* [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A python library that implements Multiobjective Optimization Algorithms and Many Objectives Optimization Algorithms
 
 * [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types)
 

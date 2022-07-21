@@ -45,7 +45,7 @@
 
 * [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic) : A python library that implements Metaheuristics to solve single objective problems
 
-* [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A python library that implements Metaheuristics to solve TSP problems
+* [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A python library to solve TSP problems using Exact Algorithms, Heuristics and Metaheuristics
 
 * [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A python library that implements Multiobjective Optimization Algorithms and Many Objectives Optimization Algorithms
 

@@ -52,7 +52,7 @@
 
 * [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A library to solve the TSP (Travelling Salesman Problem) using Exact Algorithms, Heuristics and Metaheuristics
 
-* [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types)
+* [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types) [**`GA for VRP Lesson`**](https://www.researchgate.net/publication/353660717_Metaheuristic_Lesson_Genetic_Algorithm_-_VRP_Vehicle_Routing_Problem)
 
 * [pyID](https://github.com/Valdecy/pyID) : A python library that implements many Intermittent Demand Methods (Croston; SBA; SBJ; TSB; HES; LES and SES)
 

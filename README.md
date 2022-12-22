@@ -46,13 +46,13 @@
 
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
 
-* [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic) : A library that implements Metaheuristics to solve single objective problems
+* [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic) : A library that implements Metaheuristics to solve single objective problems. [**`GA Lesson`**](https://www.researchgate.net/publication/353477460_Metaheuristic_Lesson_Genetic_Algorithm_-_Real_Coded)
 
 * [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A library that implements Multiobjective Optimization Algorithms and Many Objectives Optimization Algorithms
 
 * [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A library to solve the TSP (Travelling Salesman Problem) using Exact Algorithms, Heuristics and Metaheuristics
 
-* [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types) [**`GA for VRP Lesson`**](https://www.researchgate.net/publication/353660717_Metaheuristic_Lesson_Genetic_Algorithm_-_VRP_Vehicle_Routing_Problem)
+* [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types). [**`GA for VRP Lesson`**](https://www.researchgate.net/publication/353660717_Metaheuristic_Lesson_Genetic_Algorithm_-_VRP_Vehicle_Routing_Problem)
 
 * [pyID](https://github.com/Valdecy/pyID) : A python library that implements many Intermittent Demand Methods (Croston; SBA; SBJ; TSB; HES; LES and SES)
 

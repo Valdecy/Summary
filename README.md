@@ -24,7 +24,7 @@
 
 ## Apps - Machine Learning 
 
-* [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library
+* [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library. [**`Recommender Systems Lesson`**]( https://www.researchgate.net/publication/344389574_DS-Recommender_Systems)
 
 ## Apps - Multicriteria Decision Aids
 

@@ -3,7 +3,7 @@
 01) [Apps - Bibliometric and Scientometric - Python](#apps---bibliometric-and-scientometric)
 02) [Apps - Machine Learning - Python](#apps---machine-learning)
 03) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
-04) [Apps - Operations Research  - Java/Python](#apps---operations-research)
+04) [Apps - Operations Research  - Java/Python (**`Lesson Included`**)](#apps---operations-research)
 05) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
 06) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
 07) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)

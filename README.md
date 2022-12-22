@@ -1,33 +1,36 @@
 # SUMMARY
 
 01) [Apps - Bibliometric and Scientometric - Python](#apps---bibliometric-and-scientometric)
-02) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
-03) [Apps - Operations Research  - Java/Python](#apps---operations-research)
-04) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
-05) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
-06) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)
-07) [Data Science - Clustering Algorithms - Python (**`Lesson Included`**)](#data-science---clustering-algorithms)
-08) [Data Science - Decision Trees - Python (**`Lesson Included`**)](#data-science---decision-trees)
-09) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
+02) [Apps - Machine Learning - Python](#apps---machine-learning)
+03) [Apps - Multicriteria Decision Aids - Java/Python (**`Lesson Included`**)](#apps---multicriteria-decision-aids)
+04) [Apps - Operations Research  - Java/Python](#apps---operations-research)
+05) [Data Science - Association Rules - Python (**`Lesson Included`**)](#data-science---association-rules)
+06) [Data Science - Classification Algorithms - Python (**`Lesson Included`**)](#data-science---classification-algorithms)
+07) [Data Science - Regression Algorithms - Python (**`Lesson Included`**)](#data-science---regression-algorithms)
+08) [Data Science - Clustering Algorithms - Python (**`Lesson Included`**)](#data-science---clustering-algorithms)
+09) [Data Science - Decision Trees - Python (**`Lesson Included`**)](#data-science---decision-trees)
+10) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
 11) [Data Science - Natural Language Processing - Python (**`Lesson Included`**)](#data-science---natural-language-processing)
 12) [Data Science - Neural Networks - Python (**`Lesson Included`**)](#data-science---neural-networks)
 13) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
 14) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
 15) [Forecasting - Python](#forecasting)
-16) [Metaheuristics - Classical - Python](#metaheuristics---classical)
-17) [Metaheuristics - Discrete - Python](#metaheuristics---discrete)
-18) [Metaheuristics - Multiobjective - Python](#metaheuristics---multiobjective)
-19) [Metaheuristics - Nature Inspired - Python](#metaheuristics---nature-inspired)
-20) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
-21) [Others - Python](#others)
+16) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
+17) [Others - Python](#others)
 
 ## Apps - Bibliometric and Scientometric 
 
 * [pyBibX](https://github.com/Valdecy/pyBibX): A Bibliometric and Scientometric python library - 'Scopus' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/1yHiMMZIKa-RrarXbPB9ca0gLN9YvvtPU?usp=sharing)); 'WOS' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/13HLjC4myTvYcjLk2XBTZKbWJ2aqZUST1?usp=sharing)); 'Your Own' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/19EYjgal9V1kemmzpHnyp6MSlk9S-kGHT?usp=sharing))
 
+## Apps - Machine Learning 
+
+* [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library
+
 ## Apps - Multicriteria Decision Aids
 
 * [pyDecision](https://github.com/Valdecy/pyDecision): A python library for MCDA methods
+
+* [pyMissingAHP](https://github.com/Valdecy/pyMissingAHP) - A Method to Infer AHP Missing Pairwise Comparisons
 
 * [Ranking-Trees (Inference for ELECTRE II, III and IV Parameters and Inference for PROMETHEE I, II, III, IV Parameters)](https://github.com/Valdecy/Ranking-Trees)  : A python implementation of the Ranking-Trees Algorithm. The Ranking-Trees can elicitate (infer) all or any combination of the following parameters, ELECTRE II ([ Colab Demo ](https://colab.research.google.com/drive/1A2D3gWnMhyIqVmKsMndIpziWX7jmkcZH?usp=sharing)) - criteria weights, concordance parameters and discordance parameters, ELECTRE III  ([ Colab Demo ](https://colab.research.google.com/drive/1xErZs42NhRs8jjqrpDTi_8011TdjuSf9?usp=sharing)) - criteria weights, indifference threshold,  preference threshold and veto threshold, ELECTRE IV  ([ Colab Demo ](https://colab.research.google.com/drive/1ho4KEWrzP7ADXishhw6iXA_okN58kw6T?usp=sharing)) - indifference threshold,  preference threshold and veto threshold, PROMETHEE I  ([ Colab Demo ](https://colab.research.google.com/drive/1oUCdr8XhEHUnsxMYITZDIU1ZkVsjSiae?usp=sharing)) - P, Q, S and F parameters, PROMETHEE II  ([ Colab Demo ](https://colab.research.google.com/drive/12OwnoDyjoTtd4rgWrEE48dk1bOF-naDn?usp=sharing)) - P, Q, S and F parameters,
  f) PROMETHEE III  ([ Colab Demo ](https://colab.research.google.com/drive/1NASJiXLJ7Xwz0E3lQkYLP8__6gYTSV0B?usp=sharing)) - P, Q, S, F and lambda parameters, PROMETHEE IV  ([ Colab Demo ](https://colab.research.google.com/drive/1n7L_jtiNDGso3bNQEcRh_4vvbj99sCE_?usp=sharing)) - P, Q, S and F parameters
@@ -43,11 +46,11 @@
 
 * [J-EOQ-SA]( https://github.com/Valdecy/J-EOQ-SA) : EOQ (Economic Order Quantity) for a single product with No Discounts, All Units or Incremental Discounts and with or without Backorders
 
-* [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic) : A python library that implements Metaheuristics to solve single objective problems
+* [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic) : A library that implements Metaheuristics to solve single objective problems
 
-* [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A python library to solve TSP problems using Exact Algorithms, Heuristics and Metaheuristics
+* [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A library that implements Multiobjective Optimization Algorithms and Many Objectives Optimization Algorithms
 
-* [pyMultiobjective](https://github.com/Valdecy/pyMultiobjective) : A python library that implements Multiobjective Optimization Algorithms and Many Objectives Optimization Algorithms
+* [pyCombinatorial](https://github.com/Valdecy/pyCombinatorial) : A library to solve the TSP (Travelling Salesman Problem) using Exact Algorithms, Heuristics and Metaheuristics
 
 * [pyVRP](https://github.com/Valdecy/pyVRP) : A python library that solves, using Genetic Algorithms, many VRP Problems ( Capacitated VRP; Multiple Depot VRP; VRP with Time Windows; VRP with Heterogeneous Fleet; VRP with Infinite Fleet; Open VRP; TSP; mTSP and various combination of these types)
 
@@ -110,6 +113,8 @@
 * [**`Neural Network Lesson`**]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1i0XbKTPl48w2OUFTSBalShdBjy-eMogZ?usp=sharing))
 * [**`Convolutional Neural Network Lesson`**]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network) ([ Colab Demo ](https://colab.research.google.com/drive/14bGd5k_FBFr77k2HGnd2Ckq02N3mYy2K?usp=sharing))
 * [**`Recurrent Neural Network Lesson`**]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network) ([ Colab Demo - NLP ](https://colab.research.google.com/drive/1zv5WgkGSvaneYygXOw4wiB9C43hNCxRT?usp=sharing)) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1svd7-iLnllef3XpAhqiDdsTrzxse5yF6?usp=sharing))
+* [**`Tranformers Lesson`**]( https://www.researchgate.net/publication/366517405_Data_Science-Neural_Networks-05-Transformer_Neural_Network) ([ Colab Demo - Translator ](https://colab.research.google.com/drive/1ABvFBVdyUUnaPI1U7-ssh45AVldqMCp6?usp=sharing))
+* [**`Vision Transformers Lesson`**]( https://www.researchgate.net/publication/366517408_Data_Science-Neural_Networks-06-Vision_Transformer_Neural_Network) ([ Colab Demo - Object Detection ](https://colab.research.google.com/drive/1jCL-OntxctS4r8Dr8JzaxqXZJv4mZff3?usp=sharing))
 * [**`Generative Adversarial Networks Lesson`**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing))
 
 ## Data Science - Reinforcement Learning
@@ -132,54 +137,6 @@
 * [Decomposition]( https://github.com/Valdecy/Forecasting-02-Decomposition) : Decomposition of Timeseries Using the X-11 Algorithm
 * [Holt Method]( https://github.com/Valdecy/Forecasting-03-Holt) : Calculates the Additive or Multiplicative Holt's Method for Time Series with Trend
 * [Holt-Winters Method]( https://github.com/Valdecy/Forecasting-04-Holt_Winters) : Calculates the Additive or Multiplicative Holt-Winters' Method for Time Series with Trend and Seasonality
-
-## Metaheuristics - Classical
-
-* [ARS (Adaptive Random Search)]( https://github.com/Valdecy/Metaheuristic-Adaptive_Random_Search) : Adaptive Random Search to Minimize Functions with Continuous Variables
-* [CEM (Cross Entropy Method)]( https://github.com/Valdecy/Metaheuristic-Cross_Entropy_Method) : Cross Entropy Method (or Kullback–Leibler divergence) to Minimize Functions with Continuous Variables
-* [DE (Differential Evolution)]( https://github.com/Valdecy/Metaheuristic-Differential_Evolution) : Differential Evolution to Minimize Functions with Continuous Variables
-* [GA (Genetic Algorithm)]( https://github.com/Valdecy/Metaheuristic-Genetic_Algorithm) : Genetic Algorithm to Minimize Functions with Continuous Variables
-* [**`Genetic Algorithm Lesson`**]( https://www.researchgate.net/publication/353477460_Metaheuristic_Lesson_Genetic_Algorithm_-Real_Coded)
-* [MA (Memetic Algorithm)]( https://github.com/Valdecy/Metaheuristic-Memetic_Algorithm) : Memetic Algorithm with Lamarckian Learning (xhc - Crossover Hill Climbing) to Minimize Functions with Continuous Variables. Real Values Encoding.
-* [RS (Random Search)]( https://github.com/Valdecy/Metaheuristic-Random_Search) : Random Search to Minimize Functions with Continuous Variables
-* [SA (Simulated Annealing)]( https://github.com/Valdecy/Metaheuristic-Simulated_Annealing) : Simulated Annealing to Minimize Functions with Continuous Variables
-
-## Metaheuristics - Discrete
-
-* [2-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-2-opt) : 2-opt Function for TSP problems
-* [2-opt Stochastic]( https://github.com/Valdecy/Metaheuristic-Local_Search-2-opt_Stochastic) : 2-opt Stochastic Function for TSP problems
-* [3-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-3-opt) : 3-opt Function for TSP problems
-* [4-opt]( https://github.com/Valdecy/Metaheuristic-Local-Search-4-opt) : 4-opt Function for TSP problems
-* [EO (Extremal Optimization)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Extremal_Optimization) : Extremal Optimization Function for TSP problems
-* [GRASP (Greedy Randomized Adaptive Search Procedure)]( https://github.com/Valdecy/Metaheuristic-Local_Search-GRASP) : Greedy Randomized Adaptive Search Procedure Function for TSP problems.
-* [GS (Guided Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Guided_Search) : Guided Search Function for TSP problems
-* [IS (Iterated Search)](https://github.com/Valdecy/Metaheuristic-Local_Search-Iterated_Search): Iterated Search Function for TSP problems
-* [SS (Scatter Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Scatter_Search) : Scatter Search Function for TSP problems
-* [TS (Tabu Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Tabu_Search) : Tabu Search Function for TSP problems
-* [VNS (Variable Neighborhood Search)]( https://github.com/Valdecy/Metaheuristic-Local_Search-Variable_Neighborhood_Search) : Variable Neighborhood Search Function for TSP problems
-
-## Metaheuristics - Multiobjective
-
-* [NSGA II (Non-Dominated Sorting Genetic Algorithm II) ]( https://github.com/Valdecy/Metaheuristic-NSGA_II) : NSGA II (Non-Dominated Sorting Genetic Algorithm II) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
-* [SPEA 2 Strength Pareto Evolutionary Algorithm 2](  https://github.com/Valdecy/Metaheuristic-SPEA_2) : SPEA 2 (Strength Pareto Evolutionary Algorithm 2) Function to Minimize Multiple Objectives with Continuous Variables. Real Values Encoded
-
-## Metaheuristics - Nature Inspired
-
-* [ACO (Ant Colony Optimization)]( https://github.com/Valdecy/Metaheuristic-Ant_Colony_Optimization) : Ant Colony Optimization Function for TSP problems
-* [ABC (Artificial Bee Colony)]( https://github.com/Valdecy/Metaheuristic-Artificial_Bee_Colony_Optimization) : Artificial Bee Colony Optimization to Minimize Functions with Continuous Variables
-* [ALO (Ant Lion Optimizer)]( https://github.com/Valdecy/Metaheuristic-Ant_Lion_Optimizer) : Ant Lion Optimizer to Minimize Functions with Continuous Variables
-* [BTA (Bat Algorithm)]( https://github.com/Valdecy/Metaheuristic-Bat_Algorithm) : Bat Algorithm to Minimize Functions with Continuous Variables
-* [CKS (Cuckoo Search)]( https://github.com/Valdecy/Metaheuristic-Cuckoo_Search) : Cuckoo Search to Minimize Functions with Continuous Variables
-* [DFO (Dispersive Flies Optimization)]( https://github.com/Valdecy/Metaheuristic-Dispersive_Flies_Optimization) : Dispersive Flies Optimization to Minimize Functions with Continuous Variables
-* [FFA (Firefly Algorithm)]( https://github.com/Valdecy/Metaheuristic-Firefly_Algorithm) : Firefly Algorithm to Minimize Functions with Continuous Variables
-* [FPA (Flower Pollination Algorithm)]( https://github.com/Valdecy/Metaheuristic-Flower_Pollination_Algorithm) : Flower Pollination Algorithm to Minimize Functions with Continuous Variables
-* [GWO (Grey Wolf Optimizer))]( https://github.com/Valdecy/Metaheuristic-Grey_Wolf_Optimizer) : Grey Wolf Optimizer to Minimize Functions with Continuous Variables
-* [MFA (Moth Flame Algorithm)]( https://github.com/Valdecy/Metaheuristic-Moth_Flame_Algorithm) : Moth Flame Algorithm to Minimize Functions with Continuous Variables
-* [MVO (Multi Verse Optimizer)]( https://github.com/Valdecy/Metaheuristic-Multi-Verse_Optimizer) : Multi-Verse Optimizer to Minimize Functions with Continuous Variables
-* [PSO (Particle Swarm Optimization)]( https://github.com/Valdecy/Metaheuristic-Particle_Swarm_Optimization) : Paticle Swarm Optimization to Minimize Functions with Continuous Variables
-* [SCA (Sine Cosine Algorithm)]( https://github.com/Valdecy/Metaheuristic-Sine_Cosine_Algorithm) : Sine Cosine Algorithm to Minimize Functions with Continuous Variables
-* [SSA (Salp Swarm Algorithm)]( https://github.com/Valdecy/Metaheuristic-Salp_Swarm_Algorithm) : Salp Swarm Algorithm to Minimize Functions with Continuous Variables
-* [WOA (Whale Optimization Algorithm)]( https://github.com/Valdecy/Metaheuristic-Whale_Optimization_Algorithm) : Whale Optimization Algorithm to Minimize Functions with Continuous Variables
 
 ## Multivariate Data Analysis
 

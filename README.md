@@ -20,7 +20,7 @@
 
 ## Apps - Bibliometric and Scientometric 
 
-* [pyBibX](https://github.com/Valdecy/pyBibX): A Bibliometric and Scientometric python library - 'Scopus' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/1yHiMMZIKa-RrarXbPB9ca0gLN9YvvtPU?usp=sharing)); 'WOS' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/13HLjC4myTvYcjLk2XBTZKbWJ2aqZUST1?usp=sharing)); 'Your Own' .bib file ([ Colab Demo ](https://colab.research.google.com/drive/19EYjgal9V1kemmzpHnyp6MSlk9S-kGHT?usp=sharing))
+* [pyBibX](https://github.com/Valdecy/pyBibX): A Bibliometric and Scientometric Python Library Powered with Artificial Intelligence Tools
 
 ## Apps - Machine Learning 
 

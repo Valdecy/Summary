@@ -93,7 +93,7 @@
 * [**`CHAID (Chi-square Automatic Interaction Detection) Lesson`**](  https://www.researchgate.net/publication/344388885_DS-Classification-01-CHAID)
 * [Random Forest]( https://github.com/Valdecy/Random-Forest) : A Decision Tree Ensemble for Numerical and Categorical Data that can Handle Missing Values
 * [**`Random Forest Lesson`**]( https://www.researchgate.net/publication/344389431_DS-Classification-05-RF)
-* * [**`Isolation Forest & Extended Isolation Forest Lesson`**]( https://www.researchgate.net/publication/370934024_Data_Science-Anomaly_Detection-01-Isolation_Forest_Extended_Isolation_Forest) ([ Colab Demo - Isolation Forest ](https://colab.research.google.com/drive/1FUCy9hsPvgYYqOKMXvp1R2G3jOgGLNwF?usp=sharing)) ([ Colab Demo - Extended Isolation Forest ](https://colab.research.google.com/drive/1VDp7bKywiAc0Ie6udCsPA3KbcnxGFo5d?usp=sharing))
+* [**`Isolation Forest & Extended Isolation Forest Lesson`**]( https://www.researchgate.net/publication/370934024_Data_Science-Anomaly_Detection-01-Isolation_Forest_Extended_Isolation_Forest) ([ Colab Demo - Isolation Forest ](https://colab.research.google.com/drive/1FUCy9hsPvgYYqOKMXvp1R2G3jOgGLNwF?usp=sharing)) ([ Colab Demo - Extended Isolation Forest ](https://colab.research.google.com/drive/1VDp7bKywiAc0Ie6udCsPA3KbcnxGFo5d?usp=sharing))
 
 ## Data Science - Recommender Systems
 

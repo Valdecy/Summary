@@ -115,7 +115,7 @@
 
 ## Data Science - Neural Networks
 
-* [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Pure Python Neural Network Function for Binary or Linear Problems
+* [Neural Network]( https://github.com/Valdecy/Neural-Networks) : Pure Python Neural Network Function for Classification or Regression Problems
 * [**`Neural Network Lesson`**]( https://www.researchgate.net/publication/344301109_Data_Science-Neural_Networks-01-Multilayer_Perceptron) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1i0XbKTPl48w2OUFTSBalShdBjy-eMogZ?usp=sharing)) ([ Colab Demo - Classification ](https://colab.research.google.com/drive/1cXOB5SyA3nBw30JGKNYB_L3Nq5aM4wbb?usp=sharing))
 * [**`Convolutional Neural Network Lesson`**]( https://www.researchgate.net/publication/344301220_Data_Science-Neural_Networks-02-Convolutional_Neural_Network) ([ Colab Demo - Classification ](https://colab.research.google.com/drive/14bGd5k_FBFr77k2HGnd2Ckq02N3mYy2K?usp=sharing))
 * [**`Recurrent Neural Network Lesson`**]( https://www.researchgate.net/publication/344301224_Data_Science-Neural_Networks-03-Recurrent_Neural_Network) ([ Colab Demo - NLP ](https://colab.research.google.com/drive/1zv5WgkGSvaneYygXOw4wiB9C43hNCxRT?usp=sharing)) ([ Colab Demo - Regression ](https://colab.research.google.com/drive/1svd7-iLnllef3XpAhqiDdsTrzxse5yF6?usp=sharing))

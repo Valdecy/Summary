@@ -123,6 +123,7 @@
 * [**`Tranformers Lesson`**]( https://www.researchgate.net/publication/366517405_Data_Science-Neural_Networks-05-Transformer_Neural_Network) ([ Colab Demo - Translation ](https://colab.research.google.com/drive/1ABvFBVdyUUnaPI1U7-ssh45AVldqMCp6?usp=sharing))
 * [**`Vision Transformers Lesson`**]( https://www.researchgate.net/publication/366517408_Data_Science-Neural_Networks-06-Vision_Transformer_Neural_Network) ([ Colab Demo - Object Detection ](https://colab.research.google.com/drive/1jCL-OntxctS4r8Dr8JzaxqXZJv4mZff3?usp=sharing))
 * [**`Autoencoders Lesson`**]( https://www.researchgate.net/publication/370927073_Data_Science-Neural_Networks-07-Autoencoder) ([ Colab Demo - Dimension Reduction ](https://colab.research.google.com/drive/1O5o5Zbm9YElg5l9yS2FVqdDIsNw-GEqq?usp=sharing))
+* [**`Variational Autoencoders Lesson`**]( https://www.researchgate.net/publication/371038038_Data_Science-Neural_Networks-08-Variational_Autoencoder) ([ Colab Demo - Shapes ](https://colab.research.google.com/drive/1B-m7RroKsw6TRoGJJIzFM21qdAvZ6_O_?usp=sharing))
 * [**`Generative Adversarial Networks Lesson`**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing))
 
 ## Data Science - Reinforcement Learning

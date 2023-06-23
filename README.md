@@ -125,7 +125,7 @@
 * [**`Autoencoders Lesson`**]( https://www.researchgate.net/publication/370927073_Data_Science-Neural_Networks-07-Autoencoder) ([ Colab Demo - Dimension Reduction ](https://colab.research.google.com/drive/1O5o5Zbm9YElg5l9yS2FVqdDIsNw-GEqq?usp=sharing))
 * [**`Variational Autoencoders Lesson`**]( https://www.researchgate.net/publication/371038038_Data_Science-Neural_Networks-08-Variational_Autoencoder) ([ Colab Demo - Shapes ](https://colab.research.google.com/drive/1B-m7RroKsw6TRoGJJIzFM21qdAvZ6_O_?usp=sharing))
 * [**`Generative Adversarial Networks Lesson`**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing))
-* [**`Diffusion Models Lesson`**]( https://www.researchgate.net/publication/371636473_Lesson_Diffusion_Models) ([ Colab Demo - Stable Diffusion 2  ](https://colab.research.google.com/drive/1GSHVLYnv3nQlj4_6rSmnyu7Q6sOn4lV2#scrollTo=mJaUbxOlKIIo))
+* [**`Diffusion Models Lesson`**]( https://www.researchgate.net/publication/371636473_Lesson_Diffusion_Models) ([ Colab Demo - Stable Diffusion 1  ](https://colab.research.google.com/drive/1Wu6b4RRrIQF_wfL74f0g-ithXhgOJRUX?usp=sharing)) ([ Colab Demo - Stable Diffusion 2  ](https://colab.research.google.com/drive/1GSHVLYnv3nQlj4_6rSmnyu7Q6sOn4lV2#scrollTo=mJaUbxOlKIIo))
 
 ## Data Science - Reinforcement Learning
 

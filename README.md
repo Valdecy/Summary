@@ -70,6 +70,7 @@
 * [Naive Baye Classifier]( https://github.com/Valdecy/Naive-Bayes-Classifier ) : Classifier for Supervised Learning Problems
 * [**`Naive Baye Classifier Lesson`**]( https://www.researchgate.net/publication/344389340_DS-Classification-07-NB)
 * [**`Support Vector Machines Lesson`**]( https://www.researchgate.net/publication/344389448_DS-Classification-08-SVM)
+* [**`Gradient Boosting Lesson`**]( https://www.researchgate.net/publication/384113811_DS-Classification-09-Gradient_Boosting)
 
 ## Data Science - Regression Algorithms
 
@@ -77,6 +78,7 @@
 * [**`Logistic Regression Lesson`**]( https://www.researchgate.net/publication/344389387_DS-Regression-02-Logistic_Regression)
 * [**`Multinomial Regression Lesson`**]( https://www.researchgate.net/publication/344389641_DS-Regression-03-Multinomial_Regression)
 * [**`Support Vector Regression Lesson`**]( https://www.researchgate.net/publication/344389401_DS-Regression-04-SVR)
+* [**`Gradient Boosting Lesson`**]( https://www.researchgate.net/publication/384114066_DS-Regression-05-Gradient_Boosting)
 
 ## Data Science - Clustering Algorithms
 

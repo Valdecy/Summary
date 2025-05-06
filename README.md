@@ -12,11 +12,12 @@
 10) [Data Science - Recommender Systems - Python (**`Lesson Included`**)](#data-science---recommender-systems)
 11) [Data Science - Natural Language Processing - Python (**`Lesson Included`**)](#data-science---natural-language-processing)
 12) [Data Science - Neural Networks - Python (**`Lesson Included`**)](#data-science---neural-networks)
-13) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
-14) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
-15) [Forecasting - Python](#forecasting)
-16) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
-17) [Others - Python](#others)
+13) [Data Science - Graph Neural Networks - Python (**`Lesson Included`**)](#data-science---graph-neural-networks)
+14) [Data Science - Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---reinforcement-learning)
+15) [Data Science - Deep Reinforcement Learning - Python (**`Lesson Included`**)](#data-science---deep-reinforcement-learning)
+16) [Forecasting - Python](#forecasting)
+17) [Multivariate Data Analysis - R and SPSS  (**`Lesson Included`**)](#multivariate-data-analysis)
+18) [Others - Python](#others)
 
 ## Apps - Bibliometric and Scientometric 
 
@@ -128,6 +129,11 @@
 * [**`Variational Autoencoders Lesson`**]( https://www.researchgate.net/publication/371038038_Data_Science-Neural_Networks-08-Variational_Autoencoder) ([ Colab Demo - Shapes ](https://colab.research.google.com/drive/1B-m7RroKsw6TRoGJJIzFM21qdAvZ6_O_?usp=sharing))
 * [**`Generative Adversarial Networks Lesson`**]( https://www.researchgate.net/publication/344302834_Data_Science-Neural_Networks-04-Generative_Adversarial_Networks) ([ Colab Demo - pixel2style2pixel ](https://colab.research.google.com/drive/1uSAzdcnSt05XYbv4OUzK6ykMAs_Emcc_?usp=sharing)) ([ Colab Demo - Numpy](https://colab.research.google.com/drive/1beX2xrQNNxvLVemvA1p6FC1T_uSNJaBQ?usp=sharing)) ([ Colab Demo - Deepfake](https://colab.research.google.com/drive/1VdJXwBgnGONsKBsuhduA3vo46JOXtsQX?usp=sharing)) ([ Colab Demo - Image Animation](https://colab.research.google.com/drive/1bgdSAKHfc-oKM8ILhBPduuZA4AZ4wo03?usp=sharing)) ([ Colab Demo - InterFaceGAN](https://colab.research.google.com/drive/13pkFt-5sARi7edMcdR5n4d-IxoPjDeVU?usp=sharing#scrollTo=bBVEOiZT_vDP))
 * [**`Diffusion Models Lesson`**]( https://www.researchgate.net/publication/371636473_Lesson_Diffusion_Models) ([ Colab Demo - Stable Diffusion XL  ](https://colab.research.google.com/drive/1GSHVLYnv3nQlj4_6rSmnyu7Q6sOn4lV2#scrollTo=mJaUbxOlKIIo)) ([ Colab Demo - DDPM & DDIM  ](https://colab.research.google.com/drive/1pAwHHW5AF2TIQqrBrBYKok7ZA9C_xbAn?usp=sharing)) ([ Colab Demo - InstructPix2Pix  ](https://colab.research.google.com/drive/1u-CAl0lmgFDWT4u2NSv-OSYxD55NRCgt?usp=sharing))
+
+## Data Science - Graph Neural Networks
+
+* [**`Graph Neural Network Lesson`**]( https://www.researchgate.net/publication/391484744_Graph_Neural_Networks_-_GCN_GraphSAGE_GAT) ([ Colab Demo - GCN ](https://colab.research.google.com/drive/1CEPHlkaCesvUSCyT21qyXsb8uaDOP2Wd?usp=sharing)) ([ Colab Demo - GraphSAGE ](https://colab.research.google.com/drive/1bvh1-jljWKRT9_tDNZnSZdld1FhJKSrP?usp=sharing)) ([ Colab Demo - GAT ](https://colab.research.google.com/drive/1QgpI0X09UiBvMQoawHsdDHNtltxhOdUK?usp=sharing))
+* [**`Knowledge Graph Embeddings`**]( https://www.researchgate.net/publication/391484387_Data_Science-Neural_Networks-11-Knowledge_Graph_Embeddings) ([ Colab Demo - Knowledge Graph ](https://colab.research.google.com/drive/1eg0zkz511qigFAh7w63iBKC4NaiMJLNT?usp=sharing)) ([ Colab Demo - Knowledge Graph Embeddings ](https://colab.research.google.com/drive/1JBFdOpM77im8Sd5hmkCd9fzI-g43i_AM?usp=sharing))
 
 ## Data Science - Reinforcement Learning
 

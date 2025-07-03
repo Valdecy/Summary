@@ -133,6 +133,7 @@
 ## Data Science - Graph Neural Networks
 
 * [**`Graph Neural Network Lesson`**]( https://www.researchgate.net/publication/391484744_Graph_Neural_Networks_-_GCN_GraphSAGE_GAT) ([ Colab Demo - GCN ](https://colab.research.google.com/drive/1CEPHlkaCesvUSCyT21qyXsb8uaDOP2Wd?usp=sharing)) ([ Colab Demo - GraphSAGE ](https://colab.research.google.com/drive/1bvh1-jljWKRT9_tDNZnSZdld1FhJKSrP?usp=sharing)) ([ Colab Demo - GAT ](https://colab.research.google.com/drive/1QgpI0X09UiBvMQoawHsdDHNtltxhOdUK?usp=sharing))
+* [**`Message Passing Neural Network Lesson`**]( https://www.researchgate.net/publication/393357549_Data_Science-Neural_Networks-10-MPNN) ([ Colab Demo - MPNN ](https://colab.research.google.com/drive/1_b7g2IMz2QhbCooRu69v_DpVygXEThrw?usp=sharing)) 
 * [**`Knowledge Graph Embeddings`**]( https://www.researchgate.net/publication/391484387_Data_Science-Neural_Networks-11-Knowledge_Graph_Embeddings) ([ Colab Demo - Knowledge Graph ](https://colab.research.google.com/drive/1eg0zkz511qigFAh7w63iBKC4NaiMJLNT?usp=sharing)) ([ Colab Demo - Knowledge Graph Embeddings ](https://colab.research.google.com/drive/1JBFdOpM77im8Sd5hmkCd9fzI-g43i_AM?usp=sharing))
 
 ## Data Science - Reinforcement Learning
